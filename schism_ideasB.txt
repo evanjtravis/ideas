@@ -1,0 +1,398 @@
+			SCHISM Ideas
+
+Refer to ModIdeas.txt for Summer Scholar and other Mechanics
+
+
+Think of in-game idea for experience...
+		Eve Rebellion's way of rewarding soldiers to do their tasks well and so tha they know when to release certian weapons and upgrades to them.
+
+
+
+MAJOR PLOT REWRITE:
+	Sumivacen don't use androids directly, but use the players of the game who unknowingly control the androids "I forget the title (Path of the Righteous?)" to fight their wars for them.
+	Androids only used by players after first defeat(when their shields are destroyed), usually injuring them so they can't fight again right away. Use androids from then on out.
+		reason as to why they go down "in the flesh" in the first place: only live beings can take control of the pods, otherwise, they have to be destroyed and rebuilt. Also, certain perks and powers are active during the first life.
+	Harder to destroy pods than to gain control of.
+	extra xp awarded to those who don't die/take control of pod.
+	Only in space battle are soeley Androids used, have centers on the ground where players can be plugged in. Mothership remains outside of battle, but close enough to teleport players if they are injured.(or think of reason why players should be alive/one life)
+	ONLY PLAYER DEATHS/INJURIES EXHIBIT ANY PAIN, NONE OF THE ENEMY, SHOW THE DISCONNECT
+
+	The reason as to why so many people online can use Androids is because all non-enemy NPCs can't. "Only a small fraction of the population of the galaxy can use the androids." This will be revealed to the player during the main campaign, and since the game couldn't have more than a billion (WAY OVER-EXAGGERATION) players, and the galaxy is comprised of trillions, it's okay for there to be what seems to be a lot of people using the androids, when in fact the players only comprise a small part of the total population of the galaxy.
+
+
+
+
+Game Mechanics:
+		World building and maintaining
+			moonbase
+			fuel from gas giants
+			mining from asteroids
+			environmental incentives
+				It is far cheaper to run things in an un-environmental way, at least at first. But the chance for natural disasters increases as well as other factors. The initial investment into greener tech is daunting, but worth it, as it makes your planet more habitable and increases the NPC population.
+			Planets can either be industrial (making things for money and the war effort), Agricultural (to feed all of the NPCs that exist in the player controlled parts of the galaxy), or Research based (research new tech to use in-game). Industrial and agricultural planets are more for maintaining the player controlled galaxy, whereas the research planets try to improve technologies to increase production and agriculture or even different kinds of tech for ships and weapons.
+		Weapons
+			Players have to be trained in using certain weapons to get certified to use them. They can only get certified once the reach a certain level. This will help to reduce the game-shock (sorta like culture shock), by limiting choices on the outset.
+		Communal Experience
+			All players share an experience pool. Once that experience gets to certain levels, certain perks are unlocked.
+		Remote control air strikes
+			Control orbiting metal cylinders to crash down onto targets (remember starwars book OUTBOUND FLIGHT)
+		For research points, they are communal, as in, for every day that research is done, the points are aggregated across the board, getting upgrades for everyone only once enough points have been raised. Maybe encourage to pool efforts? Each player chooses which tech to reserach, and put their research points into it. If research points are put into something, but they fall below a certain threshold afterward, you lose some research points.
+
+		Ship Customization: The place for the engin and cockpit stay the same in all ships, but players can customize all of the space an rooms in between...
+		
+		Distribution of Wealth: More successful/wealthy players pay more in taxes of earned money for that tax period. Currency is distributed based on player income (possibly frequency of play as well). Works due to fact that the cost related to rising from one gear('s) tier to the next is exponential (or at least very high) but lowers based on currency in circulation.
+
+Use Schism as a study tool to gauge current social feelings of gamers. Keep track of choices made by players.
+
+OTHER ARTIFACTS:
+	GREATLY simplify database. Just have everything undneath player with long list of attributes. Maybe. Review database book for best architecture.+
+
+
+Gameplay:
+	Suppression fire affecting A.I. and maybe even players?
+
+	Ships start out with limited visor and radar visibility, unlocking different screens allowing views of the universe in a different 'light' and also aiming reticule and radar upgrades, a maximum number of screens? Yes, but which number? 3 seems too small
+
+	Ability to choose four skills from up to four parent skill lists in the game to then be treated as major skills
+
+	Initially, in Online campaign, characters get to use own bodies, but if they are critically injured (i.e. health goes all the way down, or are shot after deflector's are depleted cuz health is stupid) and then their bodies are beamed up and they have to plug their concioncessess into the pod system, which is buggy for them on non-alliance worlds, in that they cause a downgrade in the player's armor and skills, at least until the player is healed after a) a certain amount of time, or b)the end of the battle maybe, prolly not both. If the mothership's power is being strained by running the pod system and also beaming people up (This instantiates a spawn limit, though a little un-traditional in that the count only goes down for every time a critically injured player is beamed up), it automatically beams up everyone, and retreats back to the eye of Nydera. This gives an incentive to stay alive and not go lone wolf and to protect teammates.
+
+	"Health" is increased based on what power source your suit uses. e.g. solar, wind, gas, chemical, hydro, heat...sugar (unhealthy foods make you slower for a time but with big boosts, healthier food increase your speed for a short time, but with a lesser boost)? Depending on character action resulting in activating power sources, the player's deflector shield regenerates. "Health" is only one bullet large, you get shot and you're dead/incapacitated, but deflector's can usually take more, depending on the bullet's speed and effects.
+
+	SSX tricky had some interesting timed online vs. events (2012). Look into that.
+
+	Players have access to ALL classes, all represented by android model choice, including one for a custom class. They increase certain skills and attributes of each android model.
+
+	A percentage of nanobots degrade every time a player is disabled, making the resources of the allies to use less. Another way to put on a respawn limit. The bigger the androids, the more nanobots are lost, means heavier built players will have to be cautious and protected but still able to divert most of the damage from their weaker but more skilled allies.
+
+	OFFENSIVE/DEFENSIVE MISSION: AA guns situated around and in base keep bulk of force away, forcing them to land in a safe position and then charge the beaches of the player base where the player has a vantage point to pick off the enemies one by one until they overrun the base and deactivate the AA guns or run out of nanobots.
+
+	FULL FRIENDLY FIRE, except when otherwise changed in private matches ONLY.
+
+	Shared experience by all players within battle, divided evenly. Since higher level players tend to be more experienced and "steal" kills, now they will be encouraged to let the little guy fight for them while they act more in a support role, because lower level players gain more experience against enemies than higher level players, thereby allowing them to add more to the pool. However, a player would have to reach a certain level in order to gain access to the experience pool benefits (something near the lower mid-range), i.e. they have to work for the initial buy-in.
+
+	To balance out experience more, certain awards will be given out with experience bonuses
+		e.g. most kills, highest damage taken to death ratio (tank), lowest damage taken over how many kills made (ninja), most movement (to mitigate camping), most damage done, most kills, most support kills, most support damage, most objectives completed, most effective squad/squadleader, mission complete (for player who made last kill/ finished last objective)
+
+	Victory Points: Earned by player collective whenever a there is a successful battle/day/week/month, can be used to buy certain things like additional dlc (to be made when voted for and made availiable for all players), more powerful ships/weapons overall, xtra mothership, 
+
+	Difficulty is determined by choices made during character creation. The ability to do skills will be the same, but how people treat you socially and during combat will either get tougher or easier based on your skin color, socio-economic background, origin, orientation(maybe), education level, and gender. Message: To show that stereotypes are very much alive.
+	**********When players choose their difficulty, unbeknownst to them, they choose their starting socio-economic position in the game. Starting easier makes the player rich and well known, but harder, and their poorer. The combat will follow this initial choice, but that can be changed on a whim throughout the game.
+		
+Skills:
+	Hey....what about sub-skills? You'know, skills that attribute to an overall skill....look into that.
+
+Missions:
+	Capture Neutral Cargo Ship from enemy patrol
+
+	Solar tornado--google it if you forget, here's a reminder, a PLASMA tornado on the surface of the SUN
+
+	On space station, being attacked, virus released into ventilation, goes around as green mist, when it enters the body, it infects and replicates in the cells, and when the spawn burst forward, they do so with enough force to create substantial heat, and set the victim on fire near instantly. Escape the space station.
+
+	Civilian Rescue, Civilians used as shields and decoys by sumivacen.
+
+	Maybe divide some missions into 3 or more parts, and have groups of squads work together to complete their own assigned tasks. Maybe these tasks converge to one point and then to two, and then one again where there is a boss or possibly a fort defense battle against a Sumivacen horde.
+
+SCHISM INTRO:
+	ALTERNATIVE: The whole fast flying stuff. BUT, at the end of the round, the screen 'pulls back' and becomes pixelated. It turns out, the entire time, the real life player was playing an in-game video game through their character, who is looking through virtual reality goggles, and is a parapalegic. Cut scene of them rolling aroung, THEN somehow introduce main plot w/ supernova, paralyzed character is found, finds out that the video game he/she was playing was REAL, and that gamers have been contributing to the sumivacen war effort unawares (kind of how the industry is helping to perpertuate a culture of war) by simulating it in a "clean way" on the screen. THEN, the main character is healed (POSSIBLY NOT, AND HERO USES THE PODS SOELEY), remarks are made about how the sumivacen had this power but chose not to share it out of fear of loss of power, father figure/ commanding officer remarks, ' So what, now you can reach the top shelf. Let's get to work. We wasted time with this needless (grumble grumbl curse) ', helping to mitigate abelism.
+	NEXT, POST ALTERNATIVE: Character is only one able to use androids and pods due to something sciency, probably genetic mutation/evolution that allows player to interface with sumivacen/rotan tech. This means that while the player is immortal, their friends are not. Expericence true war, loss on both sides. Only player can respawn with pods and androids. Somehow, the player is able to activate the computer interfaces that control the androids on the Eye of Nydera and extend the usability to all of the rebel soldiers (the question will be posed whether or not it is a good or bad idea, dehumanizing war, decreasing death toll on at least ONE side, etc.). This will be the last stage of the main campaign. Player will come face to face with their character's disability, but triumph over it in order to save the eye of Nydera from attack and to activate the pods. Online, everyone is given choice to remain in a hoverchair or to stand, perks coming with each.
+	
+	Fast flying camera through space, end on player. Begin play, emphasize instant action, maybe this is the turtorial, character just 'woke up' (Is actuall playing Sumivacen pro-war game "The Path of the Righteous") and is in the middle of and being pushed into a battle (either to fight with or to escape harm, prolly just latter, learn how to shoot later), finds a radio, able to call for help, start turtorial (in order to consolidate both origin stories of character, maybe character crash lands on origin home planet after visiting other colony that gets blown up for below reasons, crash lands on origin planet, where battle is taking place....)
+	OR
+	original idea of whitacre music and some sort of characterization intro
+	OR
+	Combination of both
+
+
+Main Plot:
+	Supernova occurs near home planet, maybe people carted off to concentration camp, caused by Sumivacen because planet/colony/station discovers interbreeding, gives rise to species with multiple languages, sumivacen view as threat to power, character assumed dead, somehow survives, picked up by rebels
+
+	Everyone is made to look the same for some time, but chaos ensues when the holograms turn off, STATEMENT ON RACISM (prolly not, just go with PREDISPOSITIONS BASED ON HOW AND WHERE CHARACTERS GREW UP)
+
+	EPIPHANY......ATOM IS THE MAIN BOSS, REBELLION KNOWN AS THE EVE REBELLION, CONFLICT BECOMES KNOWN AS CHRISTIAN (maybe other religions too?) CREATION STORY, story told by crash landed 'guardian' (angels!) (group or individual? Happened more than once? Prolly) tasked with protecting the earth as it re-evolves. Reason why it becomes Jewish Creation story is because one guardian tells the story to the natives, which is forbidden, in some specific contexts, embelishing the story so as to cast the EVE Rebellion as HAVING EATEN THE FRUIT OF THE TREE OF WISDOM or whatever it's called (FREAKIN UNDERSTANDING OTHER LANGUAGES ONLY INNATELY KNOWN DUE TO GENES OR WITH THE AID OF SUMIVACEN TECH!!!! HOLY SHIT!), and then betraying Adam (ATOM!) to the serpent (of war, I guess), but no, IT ALL WORKS!
+
+	Reason as to why players can have access to purchasing ships: black market
+
+	****Reason why Sumivacen tolerate black market: They use it AND the war is manufactured as a perpetual "training program" for their armies, making sure they don't get soft (THERE MAY BE A BIGGER FISH TO FRY THAN THE SUMIVACEN! HOLY COW!), the Eve rebellion is a training mission that got out of control
+
+	Reason as to why Sumivacen doesn't shut down the black market once it is known that they supply the eve rebellion: Arrogance and a surety of victory. By the time they realize their mistake, it's too late
+
+	End: Remaining Rebel forces decide to re-evolve earth without ANY interference. It doesn't COMPLETELY work out, but there you go
+		Religion is instilled unto the New Earth population, but so is choice to adhere to any kind of faith, as opposed to what the sumivacen did and forced everyone to believe in them. The establishers of new earth feel that this will encourage growth within the new earth society, enough so that the ancestors of new earth can join the new alliance on their own volition and ability, as opposed to being "brought out of darkness" by the sumivacen.
+
+	TREE OF KNOWLEDGE ITEM: Codex like object that translates all languages, used in eye of nydera by rebellion, don't know how to recieve information, only give: Lignum Scientia (TREE OF KNOWLEDGE IN LATE: Aitenics Mungil)
+
+	SITAT'PULOV = EDEN (backwards in latin) where the first grand council of eve crash landed. (Maybe the all green planet??)
+
+	Origin of Galaxy: The sumivacen just tow planets and star systems around all of the time by way of their tech on their home planet (or rotan planet), and the power needed for this is immense, and exploding the planet causes so much energy so as to somehow cause more matter?????? (maybe open up a wormhole?) Hellow Milky-way.
+
+	The entire infrastructure of the galaxy relies on the use of nano-bots, and so when many are found on planets that were attacked by the sumivacen, a battle is never guessed, but a breakdown in infrastructure. Nanobots are the cover up for the Sumivacen, maybe shows a connection between industry and government/military interests?
+
+	Sumivacen destroy worlds in order to prepare them to re-evolve in order to produce more fossil fuels, either to get rid of any witnesses while they harvest gas giants, or to convert a planet into fuel. Maybe just have them harvest every carbon based life-form and expose them to chemicals that cause them to turn into oil? Maybes.
+
+Sub Plots:
+	Have player discover racist sect/society/Sumivacen and enemy Rotas in general and have Rotan allies say nbd, but then have some speak up and mention how it's nbd to the Rotans because they never experienced it from such a powerful institution.
+
+	Compare players and their assumptions with racists and their assumptions.
+
+Character Names:
+	Edarmoc - Eve rebellion leader
+
+SINGLE Boss Names:
+	Vol'yum (Vol-UME), Meiss or Myasse (me-ya-SAY), Densite (either DENSITE or den-SI-tee), Force (Forchay, funny thing above c)
+
+
+TWIN Boss Names:
+	Ackcel and rateon (acceleration)
+
+
+SOCIOLOGICAL:
+	Ableism (Maybe handi-capable main character?????), maybe players can choose between being handicapable either mentally or physically, causing decreases in skills that require the handicapaple part of the character while increasing the opposite. e.g. a physically handicapable person would be better at mind powers/skills whereas a mentally handicapable person would be better at body powers/skills
+
+	Maybe gay/lesbian main character and/or gay/lesbian friend
+
+	NON-WHITE/STRONG/MANLY character
+
+	Start out with racial advantages (somehow if human, different color gives others around them a stereotypical thought of SOME different abilities), and then
+	get rid of advantages/disadvantages through story while character realizes that race doesn't matter, able
+	to get over self doubt due to how people view their race.
+
+	NEED MO' NATIVE AMERICANS (for an american based game a'course)
+	
+	SHOW EMOTION FROM MALE CHARACTERS
+
+	Somehow, without being preachy, bring up the fact that a fraction of game sales and/or entertainment sales could end sociological problems, e.g., hunger, education, etc.
+
+	Have NPCs live on user created worlds but only if the worlds are properly kept up, e.g. with taxes and ENVIRONMENTALLY FRIENDLY MEANS OF PRODUCTION
+
+	Capture/Death ratio versus K/D ratio
+
+	All races are slave races, set on planets or locations in order to evolve into specific tools for the sumivacen, rotas are the main race in the game, think rotas are the proletariat, the sumivacen are the ones in charge of the means of production, and everyone else is slaves
+
+	Have a Gender Neutral playable race, keep statistics of how many characters play which race
+
+	Races don't necessarily excel at any one particular task, but learn one skill faster than others due to the way that they were brought up in an environment that allowed them for their entire lives access to these kind of skills, and so a predispotion to think in the way that is required for these certain skills.
+
+	In choosing their age, players must decide between having the wisdom of the older (initial increase in class and origin skills, but decrease in learning speed) or the physical prowess and quick learning of the younger (initial skill decrease of chosen class and origin, but learn faster)
+
+	Pods and Androids only used in PvP play or training, but used by soley by sumivacen in battle, making their rotas soldiers have less at stake, spurring many to believe that the war is meaningless to the sumivacen, and therefore they should revolt, or something like that
+
+	NOPE*************NOPEOR OR OR (from above) only HUMANS use the androids cuz they don't have the same fighting force as the sumivacen and their live rotas soldiers, so who is the real monster, the sumivacen for sending the rotas, or the players for killing innocents?
+
+	Present situation to kill rotas soldiers and/or sumivacen, give player option not to kill, but apprehend and/or persuade to come to the rebellion's side, also a mission type
+
+	Writhing and screaming ALLIES are in pain until they are shot through the head or bleed out, to make player experience their pain.
+
+	No vanishing bodies. Even after battle, keep blood stains and some flesh bits around until they rot away. Androids automatically reintegrate with pods, but maybe leave a minority some oil stains.
+
+	Should the war be unwinnable? A territory exists that can never be taken, even with all players working toward it? Or that if they do take over the sumivacen "homeworld", extra-galactic reinforcments arrive and take the outer territories, reversing the roles of the players and sumivacen of main defenders and main attackers. This reversal could happen again when the rebellion pushes the sumivacen out again, cuz maybe there was an unknown underground bunker that housed another sumivacen force that radioed for help that stealthed its way into the core of the galaxy.
+
+	Climate change, deforestation (irresponsibile use of resources), species loss
+
+	NOPE***************NOPESumivacen don't see a need to use androids so much because they feel that their forces are strong enough without them, and they need to control the rotan populations through war anyway in order to keep another Eve uprising from happening. Some Rotan leadership see this as a waste of life, encourages them to defect.
+	Missions can be route, and Rotans get reinforcements from ship deployments. Players can capture AA guns that are somewhat out of the way of the main objective in order to slow/reduce reinforcements on Online play.
+
+	Character Creation:
+		Gender choices: Male, Female, Malte-to-Female Trans, Female-to-Male Trans, Somewhere in between, non-gendered
+			OR
+			Just a 3 way slider between M(ale), F(emale), and N(one).
+
+	Sexism: Non necessarily affected when you kill someone, unless it is percieved by NPCs that it is based solely on sex, but also only measures the AVERAGE of how you will be viewed in society. Not all people will think you are sexist if you kill a string of 10 women for economic gain or whatnot, one person might. In fact, different everyone will have varying degrees of sensitivity to acts against the sexes, ranging from no effect (a score of 0), to very sensitive (of 100 maybe). There should be some type of equation that changes the player's base rank of sexism when an act is committed, and then the NPCs around you, when they learn of your acts, will react according to their sensitivity. Visibility of actions is contingent on the following...
+		Publicity, socio-economic class, rank, quest vs. random encounter, 
+
+	Depending on Origin, other origins view you with suspicion/horrow/TOO MUCH HONOR/TOO MUCH FRIENDLINESS, stereotypes abound, everything is harder on "hostile" worlds
+
+	Make game not egalitarian, but a Matriarchy, use instances to illustrate sexism but expose to men how it might feel.
+
+SCIENTIFILOGICALNESS!:
+
+	Players have to purchase an upgrade for their ships so that they can hear what is going on around them in space.How the moduld works is that any light that comes in is assigned a realistic sound, and volume is determined by magnitude of light and distance of source. Module is also directional.
+
+UNTRANSLATED BOSS NAMES:
+
+		SUMIVACEN BOSSES IN GENERAL:
+			Are not AI in the traditional sense. The armies are AI, but the bosses and augmented fighters that are controlled by the Sumivacen are controlled by professional video game players/developers.
+			Have not corporeal form, but instead possess Rotan fighters, imbuing the bodies with certain powers that speak to their names.
+
+	Humidity
+	Acoustic
+	Alpha
+	Amplitude
+	Atom
+	Baryon
+	Beta
+	Buoyant/Buoyancy
+	Capacitor
+	Centrifugal
+	Centripetal
+	Decibel
+	Pressure
+	Power
+	Work
+	Dioptre
+	Volt
+	Gamma
+	Gravity
+	Half-Life
+	Hertz
+	Inertia (is a property of mass)
+	Kinetic
+	Laser (probly not)
+	Magnetic
+	Maser
+	Momentum
+	Nucleons (name of priests w/i cult?)
+	Nucleus
+	Photon
+	Quanta
+	Quark -- what is a group of four called?-----(Kaon)
+	Radiation
+	Solenoid
+	(Ultra)Sonic
+	Thermal (iffy)
+	Velocity
+	Watt
+	Weight
+
+
+
+
+
+Maybe Some Ideas
+* World making on consoles. ACTUAL world making, like mountains, lakes, rivers, fog, cliffs, buildings you name it. In order to ensure playability, level elements would be encouraged to fit within certain parameters with red grids turning to green, so that characters can actually walk to certain locations. Levels could be played on 4 PLAYER split-screen as well as private matches online.
+* Social Network in a sense that players can visit other players worlds and the game itself can integrate them into the existing universe.
+	OR
+Main Alliance Asteroid Outpost (AAO?) just has a "homeworld hub" that opens a menu that allows access to other�s maps.
+
+
+
+Classes:
+	Priest? = magical/divine powers bestowed by #######, rogue tech for resistance.
+
+	Pilot = O'emal are good at this due to their ability to function efficiently in microgravity, increase in ship abilities and other skills
+
+	Rename ALL classes to share names with real world occupation to emphasize transferable skills
+
+	SUB-classes with regular names too, or "professional" class names and "normal" sub-class names
+		pilot: freighter, taxi, chaeufuerr, smuggler, etc.
+
+Origins:
+	Have one origin automatically have the power to see in infrared and/or ultraviolet and/or x-rays
+	Origin exposed to a lot of sunlight, but not enough nutrients on homeworld to survive, eventually develop green skin/chlorophyll
+
+
+Humans:
+EVERYONE IS HUMAN, only "HUMAN" race retained "human" features
+* (Maybe EARLY man, with wiped minds after war to ensure own evolution without further influence resulting in today�s modern day man. Enough time passes so that any evidence of war on Earth is wasted away. Same for other species and respective planets. This condition is agreed upon by all beings of every origin.)
+** (Maybe not early man, but future man, and everyone chose to de-evolve within a few dozen generations in order to evolve without outside influence)
+
+
+
+* Each origin, besides the Rotas and Sumivacen, are descendants of Earth humans and took eons to evolve in significantly different ways depending on which planet their ancestors had been relocated. Each origin evolved to suit the environment of their world.
+* Maybe the scenario could be that the armies are androids controlled by players through their avatar�s interface with a supercomputer run instantaneous sensory relay mechanism (iSRM).  The ones utilized by the rebellion were captured and refurbished for human/friendly alien use early in the conflict, but little ground has been gained since.
+* The entire game could take place in a permanent rebellion space station or planet, and just have the main character manipulate androids from afar.
+
+
+
+* Used to be equal with the Rotas, until they overpowered and indentured them.
+* They are described by Rotas as being identical to them at a very base level, but the similarities end there. Any characteristic features unique to the Sumivacen have disappeared from memory due to time. Sumivacen prefer to stay behind the scenes, being manipulators as opposed to actors. They use indentured Rotas armies to do their bidding, but only the very most intelligent and strong. This proves to be quite an effective tactic being able to brainwash the best and brightest of the only race that has any information on the Sumivacen whatsoever, leaving the week and feeble minded to do the hard work and also creating an opportunity to prematurely cripple any resistance.
+
+
+
+
+HOMEWORLD AND PLANET NAMES:
+	Either random names thought up by me, OR, backwards words of attributes that best describe inhabitants, e.g. Ecnegilletni --> intelligence, or have their antonyms spelled backward, named so by the Sumivacen so as to subliminally convince patrons of their lowliness, e.g. T'negillet'ninu --> unintelligent, OR either backwards words or antonyms thereof of latin counterparts
+
+
+
+
+	Inspiring Book (I know, nice change of pace)
+	Their Masters War by DJ McFarren
+	Flash memory used on �cultivated� soldiers.
+	Mysterious, all powerful alien race.
+
+
+Music:
+	Maybe use Audacity and creative commons music to get an idea out there?
+
+
+
+
+
+Logic:
+	Determining Experience Java Code:
+		
+		public int getExperience(int enemyLvl, int enemyBaseXP, int playerLvl){
+			
+			int XP = enemyBaseXP*(enemyLvl/PlayerLvl);
+			displayTxt(XP,"xp");
+			return XP;
+		}
+
+		**/
+			This scheme is set up in order to make sure that the experience that players get doesn't remain the same as used-to-be-tough enemies that are now easier to dispatch. Also allows for lower level players to gain more experience, and therefore add more to the collective experience pool whenever the higher-ups exercise teamwork/patience/non-douche-baggery/**
+
+	Displaying Text:
+
+		public void displayTxt(int num, String type){
+		
+			String color;
+			int y;
+			int x;
+			int fontSize;
+		
+		}
+
+		**/ String type can be "xp", "health", or "damage"(?), and depending on which one it is, the variables within the method are set to different values, i.e. color can be green for xp, red for damage, and blue for health... /**
+
+(Could ONE game do all of this? Yes, probably)
+
+
+Business Ideas
+	game = $25 at launch and remains @ $25 as long as it is being sold (including digital copies, maybe). First five expansions free, otherwise one dollar per expansion after 5 or if player buys game used. If player buys game later new, gets all expansions free and next five free. However, access is only given to players if they unlock them with individual victory points.
+
+Achievments
+	3 achievements, all worth one point: Level up One Skill Completely, Beat Campaign, Level up Ship completely, all worth 1 point
+
+
+Triple-A games could take a lot of cues from the Facebook-style asynchronous gameplay, and it's relatively simple to add. Another example that comes to mind is Demon's Souls and the ability to leave messages for future players, but the missed potential there is that there's no incentive to write the things. Take the idea further and add a mutual benefit. If you're playing a shooting section in a game and you've got a bit of ammo to spare or some of those grenades you never use, drop a small cache where you stand. Randomly-selected other players will find those caches in the places you left them, and if they take them, you get an XP reward. Perhaps even a bigger one if the other player really needed it. Everybody's happy and gameplay is magically more emergent and replayable. -Yahtze
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Local groups vote on how much they donate from their earnings into a communal pool. And/or Can also be set by the leaders. From the communal pool, a certain pertentage is taken for the greater group, etc. etc. all the way to the top.
+
+A single player cannot raid a lower-leveled player's base or resources, but any number of lower leveled players can raid a higher leveled player's base/resources. Leveling should be exponential in this case, in terms of effort to get to that level and the perks associated with that level. Base level could also be taken into account?
+
+Players can designate different storage/mining/resource-gathering facilities as shared and equally reap the benefits from them. These resource levels are determined by the level of the players. Players are responsible for protecting their individual trade routes and the facility itself together. Protection level of a facility would only count towards the difficulty in attaining/raiding it, not determine whether or not a player can attack it.
+
+Single campaign progression: Acquire ship, raid supplies to increase ability to raid more supplies etc. Build/maintain/upgrade a base and accrue followers/soldiers. (recruitment mechanic? hiring vs. racketeering vs. inspiring vs. increasingly abstract levels of worker and maintenance robots?) Liberate facilities/factories, eventually moving on to continents of a planet and then the planet itself, asking for alliance protection and support along the way. Online play continues from this point with a player having a home-planet base. Planets should be smallish. Players develop the planet and reach out to asteroid belts and whatnot to aid the overall war-effort online.
+
+
+
+Depending on origins' star system, perception of light would vary. Evolving around a blue star, white light would be white to you, but what would be considered "white" light to a human (evolved around a yellow star) would look yellowish to the race that evolved around the blue star, and the blue-star people's light would look bluish to the yellow star people.
+
+People are assigned pods, social interaction dictated by pod interaction. People never leave pods, only fuse them when they go to work or to another person's pod/ to create a family. Available people to call limited by sumivacen, form of population control. Those who venture outside their pods are killed. Records are also kept of all interactions. NSA.
+
+Active armor post for capital ships.
+
+Sniper capital ship, armored only on front, extreme long range, deploy drones if attacked, cloaked until shot is lined up, uncloaks for shot--> vulnerable. Ship moves automatically (could take a long time) depending on where the target is/ what part of the ship is targeted.
+
+Power consumption is dynamic for all systems. Players can set priority to different systems if ever there are more power requests than power available. Default priority is initially used.

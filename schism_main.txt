@@ -1,0 +1,1450 @@
+Section 1: Game Overview
+Chapter 1: Demo Overview
+Goal of Demo
+Summary:
+	There were several goals that I planned to complete on the outset of this creative endeavor. Firstly, in order to understand more of the video game development cycle, I learned how to create my own video game development document (GDD). Having discovered several templates in order to do this, I adhered to my own version of a GDD based loosely on these templates that fulfilled the requirements for this creative endeavor, that adequately documented my work on the Schism demo, and that allowed for the space to expand past the limitations presented in the demo that details what will go into the future, full version of Schism and secondly, in order to expand my understanding and skillset in designing, developing, testing, and disseminating a video game.
+(INCOMPLETE)
+Target Audience:
+
+Feature Set
+Room to Grow
+Chapter 2: Schism Overview
+Introduction
+	The game Schism is based in the Milky Way galaxy. Humanity and its allies live under the totalitarian rule of the Sumivacen, an alien race from origins unknown, but with power supreme. The Sumivacen have enslaved the population of Earth and scattered the human race throughout the cosmos. Because the Sumivacen have been in control for so long, what we call pure Humanity has ceased to be on alien worlds, as they have evolved beyond humans into other forms. These new forms are called Origins, and they are fighting to regain what was lost when they were ripped from their homes to serve ruthless masters.
+
+Game Design Goals
+
+Theme
+Common Questions
+What Kind of Game is Schism?
+	Schism is a shooter/space combat/RPG game.
+Why Create This Game? What Is The Main Focus?
+	Schism will be created in order to show that playing video games does not necessarily have to be wasted time, but time spent to learn specific and meaningful skills to utilize in the real world in order to make a difference.
+Where Does The Game Take Place?
+	Schism takes place in the far off future of the Milky-Way, where humanity no longer exists and the galaxy is populated by trillions of beings who yearn for the taste of freedom.
+What Does The Player Control?
+	Throughout the game, the player controls their in-game avatar in the form of an Origin of the player’s choosing. This avatar can then interact within the world of Schism in order to utilize spacecraft, world-building tools, and weapons.
+How Many Characters Does The Player Control?
+	The player is in control of one avatar at a time for the duration of their play.
+Will this Game be Economically Viable?
+	Though I would not consider myself an expert in video game sales, I feel that I have some unique ideas in order to keep Schism economically viable far past its launch date. The economic viability of Schism relies heavily on quickly released but relatively small expansions packs, making them affordable.
+New Purchase At Launch:
+Sell Schism for $25.
+Provide next 5 expansions to players for free.
+Charge $0.50 per expansion after first 5.
+New Purchase Post Launch
+Sell Schism for $25.
+Retroactively allow access to all previous expansions.
+Charge $0.50 per future expansion.
+Used Purchase:
+Vendor sells Schism at chosen price.
+Charge $1 per expansion pre purchase/registration date.
+Charge $0.50 per expansion post purchase/registration date.
+Genre:
+	Schism will be played as either a first or third person shooter (adjustable), coupled with a first or third person space combat simulator. The universe that the player is thrust into is teeming with unexplored worlds, the ability to create one’s destiny, and an ever-present conflict with an all-powerful force.
+
+	The game will be presented as an open, sandbox world, where the player may choose whichever path they wish on their quest. However, the single player, offline campaign is only the tip of the iceberg, as it will be mainly used as an introduction to the larger Schism universe that will be accessible to the player once they embark on the online campaign.
+
+	The goal of Schism is to create an immersive and sociologically meaningful game that presents to players the realities of this world in video game format, and allows them to act upon those in-game realities so as to learn and discover solutions to modern day questions. The main aesthetics of Schism will be Fellowship (Game as social framework), Fantasy (Game as make believe), Narrative (Games as drama), Expression (Game as self-discovery), and Discovery (Game as uncharted territory). (Hunicke et. al, 2004)
+
+Target Audience
+Action-adventure gamers (Rated M for ages 17 and up) who like:
+(Insert ESRB Rating photo here)
+Large, dynamic space battles spanning entire solar systems.
+Large, dynamic ground warfare, spanning entire planets.
+Using a variety of weapons and upgrades in order to outfit one’s character and ship for the right job.
+Choices in character Origin and Class.
+Using and improving in a number of skills in order to play in a unique, meaningful way.
+Sociological meaning imbedded into their play.
+A twisting science fiction story that forces the player to the end of their seat in anticipation for what comes next.
+Inspiring battles between the forces of good and evil.
+Multi-platform and social networking games. (As in games with social network capabilities, not social networks with game capabilities)
+Exploration of a fantastic universe.
+Devotion to current understanding of physics and the laws of science.
+Collaborative quest based yet fluid missions and story progression.
+The ability to customize your own planet(s).
+
+What Makes Schism Different?
+Similar Games
+	The number one thing that I want to try and accomplish is to make a game that is familiar, but at the same time pushing the boundaries so as to create a stand-alone gaming experience. There is nothing worse than an alienated audience when one tries to sell a game idea. Space combat coupled with ground war scenarios has been done before with Pandemic’s Star Wars: Battlefront 1 and 2 and other such games. However, while I rather enjoyed playing these games, they did not seem as fleshed out as they maybe could have been, and so they had some flaws that I would like to correct in my own game.  Here are a few things that bothered me while playing these two games in particular.
+
+The games’ combat system seemed less visceral, and more like an arcade shooter than some of the other games of the time.
+These games offered a first person perspective as an option, but it seemed tacked on after the fact, and as a consequence, the first person POV could be described at meager and unsatisfactory at best.
+The transition from space to ground combat in any of the game types required first for the mission to be accomplished on either fronts and then a loading screen, breaking gameplay and combat fluidity.
+Sound is present in outer space.
+
+	I knew that if I was going to make a game with both space and ground battles that I would have to eliminate these problems in order to compete in today’s market. The following are some solutions to the aforementioned problems.
+	In order to keep the flow of gameplay going, each player, in the campaign and online, would have the option at any time in the game to go from a ground war scenario to a space battle through certain pathways and portals. Some of these pathways will consist of actual portals from the ground to NPC Motherships, and still others could be accessed from space to the surface by using NPC Cargo Ships and player controlled Frigates as docking and downloading sites. Battles will be raged on planets and the skies and space above them. There will be certain areas in the online world where PvP, or Player versus Player, play can take place, but the main focus of the entire game, campaign and online alike, will be to attack Sumivacen ships and planetary strongholds, with space fighters and ground weapons respectively, as well as defend friendly territory with any combination of player presence and automated defense grids. This will be done as a player collective, eliminating the need for players to be against each other in anything else other than sport.
+	A certain amount of realism will also be applied to how this game will be presented to the consumer. Firstly, what irks me most about video games that occur in space is that they have sounds of explosions and ship fire and engines. This makes for cool sound effects and fun to be sure, but presenting the universe in a physically possible way will still be an objective of Schism. There will no doubt be sound when the player fires their weapons, as there is mass to carry the vibrations to the pilot’s ears, and certainly, given certain situations, sound would be appropriate, such as when a player is hit by an attack, within the atmosphere of a planet, or within the raging inferno of an explosion. Other than these examples, however, sound within Schism will follow the laws of physics, while of course allowing for the fantastic every now and again.
+
+Unique to Schism
+	There are a few features of Schism that I hope will be unique to it. Unlike other MMO games, where players are sorted into (usually) two different factions bent on destroying one another, this game will focus on online community cooperative play against the massive, relentless forces of the Sumivacen, which will be entirely A.I. driven. Not only would this common enemy scenario provide for a unique experience, but it would also eliminate the problem of ‘empty’ games, as the main opponent of the game requires no players to fill its ranks. Consequently, even if the online community consisted of only a dozen players, they wouldn’t be as frustrated as a result of empty servers and the lack of an online community. However, though a large player community would not be contingent, it would be preferable, seeing as how it’s much more fun fighting a horde of Sumivacen with a horde of your own to back you up.
+	It would also be preferred that this game would be run by consoles, Macs, and PCs alike, and hopefully by that time, it will be possible to connect them all to common servers. This has already been demonstrated by VALVE’s Portal 2, where PC and PS3 gamers are able to play on the same server simultaneously in cooperative missions. This would provide for a larger player base, and a more cohesive gamer community as a whole.
+	Another feature that I think would be unique to Schism is the “science” used to explain certain phenomena that occur in games. Take respawning for example. Respawning refers to the player’s ability to die…and then a few seconds later, to miraculously reappear in the game unhurt. To me, this always seemed to break the illusion of the game, and dampened the entire experience by undermining any sense of realism. And so I thought that I would explain how respawning would work in Schism as a completely scientific and plausible process through the use of Pods, which will be explained later. This is just one of the many examples where old video game tropes will be given their own explanations.
+
+Feature Set
+General Features:
+	Several different games and game types influenced the type of experience that I wanted to create through my game. Being a fan of the Role Playing and First Person Shooter game types, I wanted to create a game that would seamlessly marry the high levels of customization and exploration found in RPGs with the fast paced action that is characteristic of the Shooter genre. The following list summarizes the game type that I am going for, as well as several games that have had inspiring effects and their attributes that I would like to implement.
+
+The game will be an MMORPS (Massive Multiplayer Online Role Playing Shooter) Game.
+Inspiring Games:
+Mater of Orion 2”
+Planet Management, though on a less massive scale.
+Call of Duty Series
+First person POV (Point of View), online game pace, and similar basic game control scheme.
+Star Wars Battlefront
+A mix of space and ground combat.
+Star Wars: Rogue Squadron
+First person space flight combat simulation.
+The Elder Scrolls Series
+Highly customizable classes.
+Use of varying races.
+Practice of skills results in skill increase.
+Flexibility in skill choice through the use of skill-trees.
+Tom Clancy’s: Rainbow Six Vegas 1 & 2
+Cover based shooting/ transition into third person while taking cover.
+Challenge and experience based leveling up system.
+Body and world continuity (scars, bodies, destruction, etc.).
+Tiered experience gain.
+User created worlds and structures
+Social significance within mechanics, dynamics, and aesthetics of play
+Music Design Overview
+
+Sound Effects Design Overview
+
+Offline Campaign Overview
+	For the offline campaign, the player will be thrust into the middle of the conflict between the Sumivacen and the Eve Rebellion.
+Multi-Player Game Overview
+Max players?
+Customization?
+Persistence?
+Saving and Loading?
+Online vs. Splitscreen and LAN play?
+World Creator/ Manager Overview
+	The world editor will be available to players in game once they reach a certain rank in either online or offline play and purchase a sizable asteroid upon which to build. Once the player procures their property, they will be able to do several tasks in order to manage it. In addition to designing, building, and fortifying their own personal fortress, should their territory be amenable to life and a thriving society, immigrants will start to flock to their green hills and a promise of safety. The ultimate goal for the player to build their own world is to demonstrate a sense of independence, self-reliance, and sustainability in their design, and to show the Sumivacen that they can live on their own in the way that they want. The Sumivacen view the player controlled worlds as an affront to their centralized government, and will stop at nothing to control them. However, if the Sumivacen do gain control of any player run colonies through invasion, they can be retaken by the player.
+	When creating their colony, players can manipulate the Rotation, and Orbit around the primary star including distance and path. After that, players can manipulate the Terrain of their asteroid in three steps; Topography, Atmosphere and Water, and Vegetation. Following this step, players begin to design and build a Fortress to serve as a stronghold for the asteroid. Over time, players will be able to invest Workers into three fields, Industry, Agriculture, and Research in order to improve the output of their colony. After the groundwork is done, players can improve upon their Fortifications, Energy generation, and other Buildings, including ones that involve the Military. Throughout, each player world will be scored on several different aspects of their asteroid including Battle Readiness, Environment, Morale, Pollution, Industry, Agriculture, and Research. Additionally, the colony on the player controlled asteroid is able to generate funds through Trade, agriculture, Taxes, and industry, but the money can only be used to improve the colony, and cannot be treated as the personal money-maker for the player.
+
+Game Flow Summary
+
+Scope
+	The following chart details the preferred scope of Schism at the time of launch.
+
+
+
+
+
+# of         Gameplay Hours
+Offline:
+50+ Hours
+Online:
+NA
+Locations/Levels
+Sumivacen Controlled Worlds:
+Player Controlled Worlds:
+Neutral Worlds:
+Characters and Factions
+Allies:
+Enemies:
+Neutral:
+Vendors:
+Players:
+Weapon Types and Models
+Short-Range:
+Mid-Range:
+Long-Range:
+Sidearm:
+Blade:
+Unique:
+Armor Types and Models
+10 Types, 3 Models for each type.
+Equipment Types and Models
+Engineer Tool:
+Gas Dispersal Apparatus (GDA):
+Character Origins and Origin Factions
+11 Origins
+Character Class Trees and Guilds
+8 Class Trees and Guilds
+Ship Classes and Models
+Fighters:
+Bomber:
+Fighter:
+Interceptor:
+Juggernaut:
+Cruisers
+Frigate:
+Destroyer:
+NPCs
+Cargo:
+Mothership:
+Ship Weapon Types and Models
+Short-Range:
+Mid-Range:
+Long-Range:
+Ship Equipment Types and Models
+Jammers:
+Deflectors:
+Screens:
+X-Ray
+Gamma Screen
+Infrared
+Scanners:
+Drones:
+Tractor Beam:
+Vendors
+Black Market:
+Sumivacen “Legitimate” Market: 
+
+Section 2: Gameplay and Mechanics
+Chapter 1: Gameplay
+Game Progression
+
+Mission/Challenge Structure
+
+Puzzle Structure
+
+Objectives
+
+Play Flow
+
+Difficulty
+
+	When players initially choose the difficulty of their one-player game during character creation, they can choose to play on five different modes: Civilian, Recruit, Soldier, Sarge, and Vet. These modes determine not only the combat difficulty of the game, but also the starting story for the main character. Between each of the difficulty modes, the player’s origin story changes. In Civilian mode, the player’s character is a rich aristocratic family, and upon embarking on their quest, the hero gets to partake of the family fortune as a jumpstart for their campaign. However, on the other side of things, those who start off the game with the Vet difficulty start off the game as poor street urchins fighting to survive under the dirty underbelly of an over-industrialized society. And even if those playing the Vet difficulty are able to climb the social ranks, among their peers, they will always be viewed as lower than. This will be sure to spark discussion amongst players of the game, and offer a unique view on how what you are born into can greatly influence your chances for success, along with the perceptions that go along with it. It will be possible within game, however, to change the combat difficulty at any time.
+Chapter 2: Mechanics
+Physics
+Inertia
+
+Space Sound
+
+Movement
+
+Ground Movement
+On Foot:
+Vehicles:
+Portals:
+Space Movement
+General:
+Ship Jumps:
+Gate Jumps:
+
+Objects
+
+Picking Objects Up
+
+Moving Objects
+
+Dropping Objects
+
+Actions
+
+Switches and Buttons
+
+Talking
+
+Reading
+
+Hacking
+- Mothership’s systems including remote guns, shields, computer systems, life support, respawn apparatus, sensor modules, engines, and communications.
+- Pods, buffing respawn time for ally pods and taking over enemy pods.
+Combat
+
+Aiming
+
+Firing
+
+Shooting from the Hip
+
+Taking Cover
+
+Offensive Powers
+
+Defensive Powers
+
+Friendly Fire
+
+Grouping
+
+Tactics
+Angle of Fire:
+	0 degrees of the firing angle will be represented by a player aiming straight on a flat plane. If a player aims at any angle greater than 0 (when the player aims upwards), their weapon suffers from the effects of gravity and its initial impact damage and effective range are lessened.  If a player aims at any angle less than 0 (when the player aims downwards), their weapon is aided by gravity, and so they receive a damage and effective range bonus to their weapon. The greater the angle of fire from zero, the more severe the penalties, or the more beneficial the rewards.
+
+Weather:
+	Being that the galaxy is rich with diversity, players are sure to find many different kinds of weather on planets, not all of it sunny and clear. With reduced visibility from precipitation comes reduced enemy effectiveness in acquiring player targets. Similarly, it will be much harder for players to discern friend from foe, as target painting is virtually non-existent due to the interference from storms. Players’ voice chat will also suffer some disadvantages, as static from the in-game storm will cause the voicechat to become almost indiscernible within harsh weather conditions, with sound quality improving with decreased range and when near and inside buildings. Most of the developer game maps that feature adverse weather conditions will focus on travelling as a group through the outdoor conditions, but then also focus on locating, fortifying, and moving through indoor positions, which allow players to better discern targets and focus on mission objectives. Buildings will also have more powerful radio transmissions that allow for limited but more powerful target painting by the mothership. In addition to utilizing indoor environments on these kinds of planets, players can also deploy portable weather shields, which should be used to fortify important outdoor positions, or to carve out safer routes through the storm from one indoor structure to the next. Not all weather effects will be negative, however. Stealth systems, for example, get quite the boost given that it will be harder to spot already cloaked targets through a storm.
+
+
+Economy
+
+Capital
+
+Trade
+
+Sociological
+Environmentalism
+
+Race
+
+Gender
+
+Violence/ War
+
+
+World Building
+
+Section 3: Offline Campaign
+
+Section 4: Multi-Player Game Overview
+Chapter 1: Build
+Day 1
+Players will begin their online campaigns at the Eye of Nydera, the Eve Rebellion base that they helped to liberate in the offline campaign. Initially, players will have access to only a few of the Eye’s modules, such as lower level requisition stations, hangars, and access to the android broadcast arena, where players will spend most of their time controlling their androids and engaging in commander simulations (See prototype map of the Eye of Nydera in the Appendix). While controlling their androids, players can complete various quests in game, and scope out possible colony locations.
+
+Choosing a Player Colony Location
+	Space is a very dangerous place. One does not simply fly into the deep, find the first large asteroid of their choice, and set up camp. It is very important for the player to go through a series of steps before embarking on one of the most harrowing legs of their online journey. Firstly, it is important that players know what they want in a colony, namely, the location, resource access, and defensibility. These aspects factor into the decision making process. Next, it is imperative that players first are a high enough level in order to qualify for funding from the Rebellion in order to expand their borders and influence  and in order to clear the dangerous space that surrounds their prospective new home, which can be occupied by Raiders, expaditionary Sumivacen forces, or both. Certain asteroids and asteroid clusters will be nearly impossible to route enemies from, unless the player is assisted by other players or their own squadmates. Once the enemy is routed however, the players still aren’t out of the woods, as they have to maintain control of the sector until any other faction claiming ownership gives up on the prospect of taking back their outpost. This will take some time and dedication from the player. In order to accomplish this, it will be relatively easy for the player to establish a military base shortly after the initial route, via partial funding from the Rebellion. This base will be very Spartan, consisting of little more than a fortified living quarters, landing pad, and a few defense turrets. Once this period has, for the most part, subsided, players can then move on to sculpting their asteroid and building their fortress.
+
+Building a Fortress
+	More detailed explanations of these processes can be found in Section 5: World Creator/ Manager.
+	
+Building a Population, an Army
+
+Building a Fleet
+
+Building a Home
+Policy
+Taxes
+
+Research
+
+Macro-Projects
+
+Chapter 2: Defend
+Player Colony and Raids
+
+Sumivacen Attack Home Planets
+
+Chapter 3: Attack
+Sumivacen: Planets
+
+Sumivacen: Outposts
+
+Raiders: Outposts
+
+Chapter 4: Discover
+
+Section 5: World Creator/ Manager
+Chapter 1: Creation
+Orbit
+	The player will be able to manipulate the distance away from their sun that they wish to be to an extent. The farther away that the player places their asteroid to their sun, the colder it gets and the more it affects the Water and Air and Vegetation tools. The closer that the player places their asteroid to their sun, the warmer it gets and the more it affects the Water and Air and Vegetation tools.
+
+Rotation
+	The player will be able to manipulate the rotation of their asteroid to an extent. The direction of the rotation only matters insofar as all of the sides face the sun at one point or another, with an exception of the poles (e.g. Earth and Uranus). Players will be also able to have the rotation of their asteroid be parallel with their orbit, or terrestrially locked, but this is discouraged based on the fact that it is harder to maintain a colony this way with extreme heat and extreme cold comprising the bulk of the structure. Players would need to create underground caverns in order to survive, or find the sweet spot in between the two extremes.
+	The speed of the asteroid can affect several things, however. Here is a table comparing the pros and cons of high rotation speeds and low rotation speeds.
+High Rotation Speeds
+
+
+
+
+Low Rotation Speeds
+
+
+
+
+Pro
+Con
+Neutral
+Pro
+Con
+Neutral
+Harder for Sumivacen to land.
+Harder for allies, reinforcements, and player to land.
+Higher wind speed.
+Easier for allies, reinforcements, and player to land.
+Easier for Sumivacen to land.
+Lower wind speed.
+Chance to negate lack of gravity through centripetal force.
+Lack of distinguishable weather patterns.
+
+
+Distinguishable weather patterns emerge.
+Need to use stronger gravity generators to counteract lower mass of asteroid.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Terrain
+	The player can change the geography of their asteroid when they first settle it and after they settle it, but it will be way more expensive. The reason for this is because there will be more to consider in terms of disturbing when the Asteroid is successfully settled than before it is. Additionally, the technology used to create the initial topography of the asteroid is much more sweeping, huge, and easy to use than the bulldozers used after settlement. Most of the tools that the player uses will be fractal in nature, but direct detailing will also be available. There are three steps involved when changing the geography of any location on site: Topography, Atmosphere and Water, and Vegetation. The player can switch between any of the asteroid manipulation modes at any time, and return to them with saved settings in order to view the final effects of their work without having to finalize the design. Wildlife will be placed automatically once the morphing process is complete, and other species, including flora, can be introduced later on by purchasing them on the Residence Terminal. It will also be possible to purchase more water and land manipulation as well. While the player is adjusting the elevations of their asteroid, a meter at the top of the screen will allow them to know how much land they are able to use, with the bar increasing every time a valley, cave, or drop-off is used -- when land is subtracted from the map and added to the mass of land available -- and decreasing whenever land is used in order to create a mountain or plateau.
+	Players will have access to several tools to change the topography of their asteroid. Water will be dynamically placed depending on the topography of the land and will in turn create realistic lakes, rivers, and waterways. These tools include:
+
+Mountain
+Incrementally increase the elevation of a selected area with moderate to high wall steepness and a more pointed peak.
+Hill
+Incrementally increase the elevation of a selected area with low to moderate wall steepness and a more rounded peak.
+Plateau
+If the elevation is low, the plateau raises an area at a mostly uniform rate with sheer sides. If the tool is used on a hill or mountain, the hill or mountain will be cut off at the chosen elevation and start to move upwards with sheer sides.
+Sheer Drop
+Create a sudden drop off.
+Valley
+Incrementally decrease the elevation of a selected area with low to moderate wall steepness.
+Cave
+Create cave systems throughout the asteroid.
+Rocks (small)
+Paint a field of small rocks onto the landscape.
+Rocks (medium)
+Paint a field of medium-sized rocks onto the landscape.
+Rocks(large)
+Paint a field of large rocks onto the landscape.
+Carve
+Fractally carve out shapes into the sides of hills and mountains in order to create overhangs.
+Equalize
+Seamlessly blend an area to a uniform and gradual height.
+Impact
+Create a pattern on the face of the asteroid to simulate a meteor strike.
+Erase
+Set a painted area back to its original shape and clear populated items.
+Clear
+Start Topography stage from scratch. Also clears anything done in the Atmosphere and Water and Vegetation stages. Player will be prompted to authorize.
+Undo
+Undo last action.
+
+	Upon selecting the Mountain, Hill, Plateau, or Valley tools, the player designates an area using a grid that highlights the selected area. Then, they click and hold until to get the desired topographical effect. In order to use the Sheer Drop tool, the player draws two lines on the terrain. The two perpendicular sides are then drawn fractally. The selected area’s elevation is then reduced to an average of 1 elevation point with near vertical sides. In order to use the Cave tool, the player selects a point on the surface of the asteroid. The view then switches so that the ground is more translucent. The player can then move the cursor underground in which ever shape they want. Alternatively, the player can choose to create a cave system fractally by designating its underground area in 3D space with a grid. Wherever that area surpasses the surface, the player has an option to create another entrance. Caves can join up with underground fortress and colony passages if the player so chooses. To select an area in either 2D or 3D, the player selects the first point, designated as the first corner, and then selects the point that will act as the opposite corner. It is possible for caves to collapse if they are overused or if they are destabilized during conflict, causing damage below and above the point of collapse.
+	In order to use any of the Rocks tools, the player has to select which tool they would like to use, set the size of the brush that they wish to paint with, and then paint the area that they wish to populate with rocks. It is possible to populate different sized rocks together. In order to use the Carve tool, all that the player needs to do is select the tool and paint over a section of a mountain or hill that they wish to create an overhang in. With each brushstroke, the mass will fractally wear away little by little, until the shape that is desired emerges. In order to use the Equalize tool, all that the player needs to do is select a 2D square on the map, and the elevations of the selection will merge into smooth transitions of one another. The impact tool allows the player to choose the size of a theoretical meteor and to see what their asteroid would look like if this meteor would hit it, creating a customizable crater.
+	The following are the tools for the Atmosphere and Water stage of asteroid manipulation:
+
+Spring Source
+A tool to set a spring source above sea level to fill a lake or too spill into a river. Player can also set the flow amount of the source.
+Cloud Cover
+A slider that allows the player to manipulate the average amount of cloud cover that the asteroid has per year.
+Water Level
+A Slider that controls what the sea level is. It is possible to have an underwater asteroid.
+River
+A tool to create a passage way between two bodies of water.
+Fog
+A tool to create fog in specific areas.
+Erase
+Remove any selected spring sources or rivers.
+Clear
+Clear everything that was placed or set during the Atmosphere and Water stage. Player will be prompted to authorize.
+Undo
+Undo last action.
+
+	These tools will affect each other in dynamic ways. First, the player should use the Water Level tool, which determines the sea level (elevation 0m) and base amount of water in the asteroid system, with more water being more expensive. While using this tool, rivers and lakes will fill up on their own, and the player can see this happen dynamically as they fiddle with the slider. Secondly, the player should then access to the Spring Source tool. This tool can be used to place a water source above the new sea level, say in a lake on a mountain, however, with each source, and depending on how much water courses through it before again meeting up with the main bodies of water that are at sea level, will come a decrease in the sea level of the asteroid. Thirdly, the player should utilize the Cloud Cover slider tool, which is limited based on how much of the asteroid’s surface area is covered with water, with more surface area correlating with more possible cloud cover. The Fog tool will be dependent on how much cloud cover there will be. The player will be able to paint on thicker and more frequent fog if there are higher cloud cover levels. What will happen, however, is that there will be less cloud cover in the sky the more fog that is painted on the surface. The player can manipulate the size of the brush and the thickness of the fog using sliders.
+	The following are the tools for the Vegetation stage of asteroid manipulation:
+
+Field
+Paint an area to look like grassland.
+Forest/Jungle
+Paint an area to look like a forest or a jungle.
+Wetland
+Paint an area to look like a wetland.
+Desert
+Paint an area to look like a desert.
+Tundra
+Paint an area to look like a tundra.
+Underwater Plants
+Paint an underwater area’s plant life.
+Underwater Coral
+Paint an underwater area’s coral.
+Individual Plants
+Populate an area with individual plant types.
+Erase
+Paint an area to remove anything done during the Vegetation stage of asteroid manipulation.
+Clear
+Remove all work done during the Vegetation stage of asteroid manipulation. Player will be prompted to authorize.
+Undo
+Undo last action.
+
+
+	In order to use the Desert, Field, or Forest/Jungle tool, all the player needs to do is select either tool, choose their stroke width, and then paint the areas that they want to be populated by that kind of environment. If there are two painted areas adjacent to one another that are of different environments, there will be an in-between area automatically created between the two. There is a limitation to the Wetland tool, in that wetlands can only be present around bodies of water and as parts of river systems. The Wetland can be placed, and then a river can start and go through the wetland to come out the other side. Healthier rivers tend to have wetlands in their system. There is also a limitation on the Tundra tool, in that it can only be used at higher altitudes if, at lower altitudes, there has been placed a desert environment. The tundra that results from using the Tundra tool will be a mostly snow-covered shrub land. Using the underwater tools, it will be possible to create aquatic worlds beneath the surface of deep bodies of water. The Individual Plants tool will also work here, though the selection of plants will change. Fortresses can be built partially underwater and can be potentially fortified with coral structures.
+	(Vegetation has to be uniform throughout the asteroid, and the player chooses what they want. If they change their minds on the type of forest, all of the plants change into their alien counterparts. The type of plants determines several things like the asteroid scores and atmospheric composition)
+
+Fortress
+	The player will be allowed to design and build their own fortress. Recommendations for how to build a fortress will be given, but the choices will be ultimately left up to the player. However, no matter what the player might want to build, it will be limited to how much money they have and earn on a regular basis that determines the size, strength, and special attributes. There are several rooms and additions that must be implemented in order to build a fortress; a residence, a landing bay/pad, headquarters, barracks, and at least one farm, factory, and basic lab. The last three will be more detailed in the Buildings section of World Editor.
+
+Residence:
+	The residence is a fortress of solitude for our player. Or, if they so wish, the residence can be where they spend time with family and friends, working on pet projects, or just a place to keep their junk. Inside the residence will be a computer and bed at least, and anything else the player might want to purchase with their in-game money at the in-game market at most. The computer terminal, probably the most important thing in the residence, will serve as an information nerve center, where our player can deal with the everyday tasks of building and managing a small world. The player can say which buildings and products they want in construction, which foods they will want to grow, and which avenues of research they would want to pursue. In addition to all of that, the player can promote and transfer their workers to any job the player sees fit. Also on this terminal, individual workers that stand out will be offered promotions, to increase the yields of work that the workers can produce daily.
+
+Landing Bay/ Pad:
+	The landing bay will be where the player lands and keeps their ship(s) whenever they visit their world. Without it, the player cannot visit their asteroid, and therefore not be able to manage it.
+
+Headquarters:
+	The headquarters of the fortress will be the commanding nerve center should the asteroid come under attack. Inside of the headquarters are the player’s control chair, turret control centers, and the computer mainframe for the whole fortress. This room is the most secured on the asteroid, but if it is breached and the mainframe hacked into by an enemy force, the fortress changes hands, and the asteroid is temporarily lost.
+Barracks:
+	The barracks house all of the people who live on the player’s asteroid, not just the military forces, including the player’s workers. The number of buildings designated as barracks that the player has built determines the population of the asteroid, and therefore directly influences the amount of military and workers that one might have. Barracks can be built outside of the fortress as well.
+
+
+Chapter 2: Management
+Scores
+Battle Readiness:
+	Battle readiness refers to the chance that the player will have to successfully defend their home from Sumivacen invasion. It can be changed depending on the morale of NPC military and workers, as well as from the amount of fortifications and military buildings that exist.
+
+Environment:
+	The environment score of any player colony takes into account several different aspects including Carbon Dioxide levels as a result of pollution, the sustainability of the current industry and farming techniques used, and any destruction that has resulted during a recent Sumivacen attack. The Environment score affects the morale of the habitants of the player colony, the chance for a natural disaster, the probability for future acid rain or other precipitation, the climate of the player colony, and the species diversity of the player colony.
+
+Morale:
+	Morale for player controlled territory determines many factors including the production level of the inhabitants and their ability to fight back in the event of an attack. Morale affects the level of attachment that any one person has for their home, and will be less likely to defend it should it come under attack if they are unhappy with the way that it is being managed and how they are being treated.
+
+Industry, Agriculture, and Research:
+	The industry score for a player colony can change depending on how many workers are in the manufacturing sector and whatever buffs they may get from other buildings such as factories, recycling centers, and nano-bot manufacturing plants. Along with industry comes the possibility for pollution, which will be determined by the amount of industry in the colony and any buildings designed to dispose of pollution, such as recycling centers, water purifiers, and closed manufacturing systems.
+	The agriculture score for a player colony can change depending on how many workers are in the farming sector and whatever buffs they may get from other buildings such as farms, greenhouses, and animal nurseries. Agriculture is especially important due to the fact that it will be initially difficult for players to manage their colony in order to provide enough food for their colonists and also embark on other world managing endeavors. Ideally, the Agriculture score would result in a surplus, so that players can sell their crop off-world in order to help other struggling asteroids through trade.
+	The research score for a player colony can change depending on how many workers are in the research sector and whatever buffs they may get from other buildings such as labs, universities, and chemical enrichment plants.
+	Morale also affects the amount of work done by these workers, with low morale leading to lower productivity, and higher morale leading to higher productivity. The player will be able to view both the base and actual scores for their worker output, the base score being the output of workers if morale is neutral.
+
+Pollution:
+	Pollution gauges how much waste is being created by the industry sector of the player’s colony. It can affect the environmental and morale score in addition to taking away from industry in that whatever pollution is produced must take away from worker productivity in order to dispose of it.
+Workers
+*Tradable among players for goods and services.
+Military
+Bunkers
+Trenches
+Space Academy
+Space Station
+
+Research
+Labs
+Industry
+Factories
+Agriculture
+
+Farms
+
+
+Fortifications
+	Fortifications are in and of themselves buildings, but they play the specific role of preparing your troops and giving them the tools to successfully defend against a Sumivacen invasion. They directly influence the Battle Readiness of the player’s asteroid.
+
+AA Guns
+Tormenta Nests
+Turrets
+Orbital Strike Barrier
+Walls
+Towers
+Gates
+
+Buildings
+	There are a variety of buildings that can be built on the player controlled asteroid. They can be anything from farms, to labs, to factories, to theatres, to data centers, to stock exchanges. Each building performs a specific task, and can affect the Battle Readiness, Environment, and/or the Morale scores of the asteroid.
+Armor Manufacturers
+Weapons Manufacturers
+Artificial Gravity Generator
+Spaceport
+Guild Buildings
+Universities
+
+Waypoints
+	It is important when a player is sculpting and managing their custom world that they designate points on the map that need to be or can easily be defended. Many waypoints are automatically set when players build certain buildings, but players, if they choose, can remove them or rename them. The typical naming convention for 
+Energy
+Hydro-Powered Generators
+Light-Powered Generators
+Fossil Fuel-Powered Generators
+Wind-Powered Generators
+Anti-Matter Powered Generators
+
+Trade
+	
+Taxes
+	Players will have the ability to tax their colonists. With a flat tax, everyone pays a certain percentage of their income to the colony coffers. However, players can also institute a tiered tax code that taxes their colonists at different rates depending on their income. In order to do this, a screen will be available in the Residence of the fortress that will show a line graph with income on the x-axis and a percentage tax rate going from zero to 100 on the y-axis. The player will be able to manipulate the tax percentage at every point along the x-axis of the graph. The limits of the graph will be determined depending on the minimum and maximum income held by the colonists. Additionally, every colonist’s income will be compared to every other colonist in the galaxy that is harbored by players. This will determine which colonists will fall within certain ranges including poverty, working class, lower middle class, middle class, upper-middle class, upper class, and the mega-rich. Special caution will be taken to eliminate outliers from these calculations.
+
+Victory Condition
+	There is no formal announcement of victory when a player embarks upon managing their own asteroid colony, due to the fact that when a player’s battle readiness, environment, and morale scores reach their maximum, it is still possible for players to mess it up in the future. However, there are several things that happen when the player has reached a certain level of achievement in their colony management.
+	The entire point of the world building aspect of the game is to educate the players on how the environment can affect how people live. The environment score takes a lot into consideration, but when it is relatively high, the landscape starts to modify itself in a very organic way. A tree may fall down and provide as a natural habitat or nutrients for future growth. Flora and fauna will flourish where before there was nothing but desolate rocks and dump sites. Natural rivers and lakes will occur where before there were dams blocking their natural flow, breathing new life into a thirsty environment. When the environment is in good condition, it will start to go through a natural cycle of renewal, as opposed to the very destructive metamorphosis that could occur if the environment was not up to par, failing. What is the reason as to why this is considered to be the victory condition, and why would the player care? For one, this clearly illustrates a real world need to keep the environment healthy in today’s world. If this lesson can be taught to one person, then this aspect of the game would have done its job. As to the reason why players would care, they would be exposed to an ever changing landscape that they can explore anew whenever enough time passes. A nearly infinite supply of environments to explore will be at their fingertips.
+Chapter 3: Wealth, Defense, and Raids
+Wealth
+
+Defense
+
+Raids
+
+Section 6: Schism Story, Setting, and Characters
+Chapter 1: Story
+Backstory
+	Before anything in the recorded histories of your galaxy, its inhabitants have been the subjects and slaves of an alien race known as the Sumivacen. They are known to be Gods, and are worshipped as such by the entire galaxy.  The past thousand years have only been a fraction of time when compared to the age that the Sumivacen have remained in power.  Employing their malevolent “wisdom”, these beings have been able to keep the entirety of the galaxy in a religious stupor, promising enlightenment to all who bow down to their banner, and certain death for those that voice even the most benign of criticisms. However, what makes the past 1000 years significant is the founding of the Eve Rebellion.
+	It has always been custom of the Sumivacen to wage war on its inhabitants. Though the reason for this is unknown, many within the Rebellion theorize a plethora of ideas for this. Whether the Sumivacen wage war to show their might, to deter heretics (as they are popularly called and thus blamed for the wars), for divine “amusement”, or is there some other force that the Sumivacen fear?  Such a force that, if the Sumivacen became weak, complacent, and lacking in effective military strength, would surely wipe them off the face of the universe? Such a thing cannot even be fathomed by many founders of the Rebellion. However, the reasons for war are not important. People are dying, and the Eve Rebellion has banded together in order to stop it.
+	In the beginning, the Eve Rebellion was one such heretical group being persecuted by the Sumivacen, comprised entirely of Rotan officers and their most trusted underlings, who stumbled into doubt of the Sumivacen’s supposed powers of omnipotence. Originally only a loose collection of Rotan Dreadnaughts and a contingent of fighters, space battles with the Sumivacen were little more than guerilla strikes lasting only a few minutes. Due to their inability to land, the Dreadnaughts could not effectively enter ground war, and the fighters were too valuable to waste on land that couldn’t be held. So it was this way for 157 years, with Eve’s Rebellion becoming a less and less tolerable nuisance to the Sumivacen.
+	In a military “training mission”, the Sumivacen sought to cleanse this heretical coalition from the galaxy. But before this could be accomplished, the founding Rotans were able to leave their legacy on the Eye of Nydera, a dead rogue asteroid that circled a white-dwarf star in the outer reaches of the Milky Way. Their legacy was contained within their writings, their private diaries, documenting their doubt in the Sumivacen, as well as which tactics and weapons were effective against the fleets of the enemy. Copies of this information were stored in every ship and every individual had their own copy with them at all times. Being that these writings were recorded in the Rotan tongue, however, made it difficult to convey the struggle to other origins. The Rotans knew that they would need a device to translate their writings so as to share all of the knowledge that they had gained against their enemy. And so plans were made to infiltrate and to steal from the Sumivacen such a device known as the Aitneics Mungil, an item that only had its existence known by a few within the upper echelons of Eve’s Rebellion, and even these members spoke of only rumors and obscure mutterings in reference to this enigmatic object. Successful in their mission, the rebels copied and transferred every single scrap of information against the Sumivacen into the Aitneics Mungil, and planted the device within the bowls of the dead asteroid, secured by a hidden vault. In order to avoid any suspicion, however, the Rotan fleets abandoned the Eye of Nydera, knowing full well that the discovery of its secret would doom their cause forever.
+	But the wrath of the Sumivacen inevitably came and less than a day’s journey from the Eye. The attack was sudden and unexpected, so much so that many were still in their beds as they were consumed by fire and the vacuum of space. With their force now decimated, only a few were able to survive the onslaught by cloaking their escape pods and ships and splitting into two groups, a tactic that the Sumivacen had not expected, nor even thought possible, due to their lack of a need to research it. What kind of all-powerful being needs an escaped pod, much less one that is cloaked? The surviving Rotan who utilized the escape pods landed upon the planet their fleet was until recently orbiting, and prepare to lie low for what passed as days on the alien planet. Upon emerging from their escape pods, starving and terrified, they are greeted by a foliage thick landscape, absent of any sentient life whatsoever. A world of untouched nature. It is here that they live out the rest of their existence, adding as much as they could to their personal diaries, in order to prepare the coming generations in their fight against the Sumivacen. These remnants of the original force of the Eve Rebellion would come to be known as the first Grand Council of Eve. The few ships of Eve’s Rebellion that escaped eventually made their way back to the planet that hosted the infamous massacre, today known as Sitat’pulov. Scouts were sent, and indeed, old friends long thought to be lost were reunited over the radio waves, but the council knew that the galaxy would not long tolerate their existence were it to become known. So one last ship made its journey to the surface of the planet in order to pick up the remaining writings of the council. These writings were then added to the vault in the Eye of Nydera, and for a second time, the Eye was abandoned. But the remaining ships continued to wander the wastes of the Milky Way, recruiting when they could, but only to rebuild and to offer sanctuary for those who sought refuge from Sumivacen control. That is not to say, however, that they did not keep up with their training throughout the millennia.
+	843 years later, the Eve Rebellion has been all but forgotten by the main population of the Milky Way galaxy.
+
+***
+
+	You have piloted a cargo ship for years now, going wherever and transporting whatever your masters deem necessary. You are an ordinary servant diligent in your duties to the Sumivacen. You reside in a quarantined community of indentured humans and other origins, socially and economically stratified by race, class, and one’s willingness to bow down to the Sumivacen. The bonds of community run deep and strong, and your devotion has never wavered. But even the strongest bonds of friendship and family cannot distract from the fact that you all live in a thinly disguised prison.
+	Leisure for you is split between spending time with friends, and immersing yourself in the virtual world known as The Path of The Righteous. In this game, you take on the role of a soldier, fighting against the ancient evil known only as “The Rebels”. As fate would have it, you are one of the more skilled players of this game, often easily besting your friends and placing first in local tournaments. You’re practically a celebrity, at least on your backwater world. This is your life, spent in service to the Gods of the realm.
+	On one particular, peculiar, day however, you begin your trek to the shipyards to start a long week of ferrying trade among the Sumivacen controlled systems, and do so a little earlier than usual, much to your chagrin, however, as a special event mission was to take place on this morning for The Path of The Righteous. “There’s always next time”, you mutter under your breath. Launch procedure for your dinky cargo vessel goes off without a hitch, as you are scheduled to be the first one off-world, and the only traffic in the sky is a flock of some nearby birds. In the sky is where you feel truly free, your eyes closed dipping and weaving among the familiar mountains and valleys of your homeworld before finally ascending into the cold of space.
+	Upon emerging from the troposphere, you find nothing out of the ordinary on your scanners or radio. All air intakes are sealed as you begin the first stages of your ascent.
+	The Stratosphere holds nothing of particular interest to you as you switch on the music station that is centralized within the space station orbiting your homeworld.
+	Slight turbulence jolts you from your reverie as you enter the mesosphere.
+	A northern light show glances across your screen and around your ship as you leap from its clutches and deeper into the thermosphere, where you begin to notice a single burst of indistinct radio chatter emanating from deep space.
+	Finally, you reach the exosphere. Encased within the lifeless abyss of free space, with no atmosphere to buffet your ship, you shout, “Now this is flying,” drowning out the now frantic imploring coming from the surface of your homeworld. You ignite your afterburner in order to quickly launch yourself to the dark side of one of the moons of your homeworld, one of your favorite places in the system. So peaceful. So dark. The perfect place to think. What you are about to discover is that this action saves your life. At that moment, a force of hundreds of Sumivacen ships surround your world, and open fire on the major population centers. You look in horror as your home is destroyed, but have nary enough time to react as a Rotan fighter bears down on your vessel, thirsty for a kill, guns firing. Thankfully, your ship is outside of the effective range of your pursuer’s weapons, but you know that this will not be true for long. And this enemy is not the only one.
+	Thousands upon thousands of Rotan fighters swarm the atmosphere of your homeworld like hornets in their hive, not noticing the lone ship that hovers in the shadows behind their ranks. You notice that some ships hesitate, and, as if by some insane impulse, begin to fire on their allies in semi-coordinated attacks. Warm, red light emblazons itself upon your face as the rogue’s weapons find their mark. The small amount of traitorous ships are quickly dispatched, stung by their murderous comrades, some, you notice, even stalling in midflight only to crash to the surface with no apparent damage done. Not one ship escapes from your home. Soon, the entire planet will be nothing but a ball of molten slag, but you have hardly enough time to dwell on this holocaust, as your pursuer is closing in, though, curiously, is no longer firing at you.  You exhaust the remainder of your afterburner reserves, and maintain a maximum velocity in order to get into position to open a warp gate. Sweat, liquid terror, is dripping down your brow, and onto the control console, where it leaves soggy refractions of semi-perceptible navigation data.
+	The moment you escape the gravity well of your savior moon, you punch in coordinates for the closest available warp location. 10 seconds out from your location, and slightly above, you witness the birth of a wormhole, courtesy of your on-board warp-drive. It’s too far, you realize, as your pursuer is now only a few kilometers away and accelerating quickly, surely waiting for the best time to strike, or so you suppose. There’s no turning back now. Escape seems impossible.
+	You accept your fate as you count the seconds until you are no more. You gaze into the navigation consoles, somewhat comforted by the red, soft, familiar glow. You dial up a picture of your home, family, and friends. The realization of what was lost is almost too much for you to bear, as tears pour freely from your eyes.
+	T-minus five seconds.
+	You say your final goodbyes in the way that is the custom for your people. Sudden realization allows for you to comment, “See you in a bit.” You glance toward the wormhole. So close, you mentally exclaim. In a final gesture of defeat, you slump in the captain’s chair, and await the embrace of the empty vacuum of space, and then of the final sleep that is the equal exchange for a chance of life…
+
+
+***
+
+	T-plus one second.
+	You are surrounded by the vortex of the wormhole. Curious as to why you are not dead, you turn in your chair to view the proximity screens just to your right. The Rotan ship is just meters from your hull, hovering ominously above. Weapons, of course, are completely functional in these gates between space, so as to why this fighter was not blasting you into a million cosmic bits right now is beyond comprehension for you. Eyeing the screen nervously, you almost fail to notice the hail signal beeping on your main console. You slide your finger across the touchpad in order to communicate, but before you can get a word out, a metallic voice speaks, “I mean you no harm, friend. I am your ally. Do as I say and you ensure your own survival.” The channel disconnects.
+	Incredulously dumbfounded, you again slump in your chair, trying vigorously to think of any such motive that this apparently enemy-then-“friend” Rotan ship would have to aid you, and how you can even understand them, given the fact that they were Rotan, and not born with knowledge of your tongue. But, seeing as how you have no choice in the matter, you do as you are told, and wait for further instruction. Hours pass, maybe a day, and nothing but silence passes the time, until your two wayward ships come to the first of several openings in the torrential warp walls. You pass many of these celestial exits, but it is not until much farther than you have ever travelled in this sector that the voice speaks again. “Exit,” the voice orders. And so you comply, swinging you ship into the next hole puncturing the universe.
+	Waiting on the other side of the wormhole is something wholly unimaginable to you. You observe a single massive ship as it drifts among a field of debris and space rock. It begins to pull you into its clutches using its on-board tractor beam. The design is unmistakably Sumivacen, and therefore Rotan, but spires, domes, and boxes full of portholes, windows, and custom weapons were clearly added to the aging frame, similar to how an artist might revive a condemned piece by employing a last ditch effort to make it seem “abstract”. So it’s understandable that at this point you are again perplexed, perplexed as to why this Rotan fighter ship directed you to just another Sumivacen ship, albeit a much larger one than the ones that are currently decimating your home at this very moment.
+	“Home…”
+	The ship hovering above you is definitely something, but you feel that an ally is not it.
+	Closer and closer the huge ship loomed. As you continue to look outside of your ship, you notice flits of light going in, coming from, and going around the ship. Busy, you think. Finally, after one agonizing minute, your ship is pulled into the bowels of the hangar of the massive ship, but not before you spy the decal on the starboard side that reads “Eve 3”. Entering through the underbelly of the Eve 3, you are surrounded by the initial darkness of the landing bay. Then floodlights blast into the screen of your ship and catch you by surprise.
+	Dazed and confused, you stand and begin to stumble around the cockpit of your cargo ship, grasping wildly in order to steady yourself. Your hands finally find your pilot’s chair and you hoist yourself up, shielding your eyes. A loudspeaker squawks alive in the hangar, and you hear the faded words through your screen, but what they are saying is indiscernible due to the thick glass. Your eyes have adjusted enough for you to spy that the Rotan fighter had landed right next to you in the hangar. You notice that the cockpit of the fighter is open, but the pilot’s seat is empty. Maybe you will be given another chance to see your “friend”, but at another time, if more time exists for you, that is.
+	Women and men dressed in flight suits pepper the ground around your ship. Many have their pistols drawn, and some have theirs trained on the loading ramp of your ship, but the general feeling that you perceive from the mass around you is one more of caution than of intimidation or hostility. Suddenly, as if by their own accord, your loading ramp and air filters burst open as the voice over the loudspeaker says, “…above your head. I repeat, lie face down and put your arms above your head. Any perceived hostile action will be not be tolerated, and will be dealt with accordingly.” A moment of silence, as many of the armed pilots swarm into your ship. And then again from the loudspeaker, “Welcome to Eve 3.”
+
+
+***
+
+	The voice, you come to learn, is that of Commander Bezerik, one of the many on-staff rebel Queen’s Rooks on the Eve 3. He will serve as your commanding officer for your stay on the Eve 3. You will become close with the residents of the Eve 3, along with the mysterious pilot that escorted you half a galaxy away from home. You will train hard to gain entry into the Eve Rebellion ranks, and to fight the Sumivacen at every turn, in answer to their tyranny and unbridled cruelty. As it turns out, you seem to be someone special, and you are the only one that can reclaim the Eye of Nydera, the lost rebel vault that lies deep behind enemy lines, and that holds the secret to landing a serious blow to the Sumivacen. For now, its secrets are unknown to the Sumivacen, but many within the rebellion fear that this grace period will only last so long.
+
+Offline Campaign Plot
+Questlines:
+Main Campaign
+
+Mysterious Pilot and Other Crew Missions
+Origin Homeworld Liberations
+Class Factions
+Race Factions
+
+Plot Elements
+1) Exposition/Introduction: This part introduces the characters and their personalities.
+
+2) Rising Action: This part helps recognize and reveal the conflicts of the characters to another character or to himself. This also shows the progression of the story.
+
+3) Climax: This Part shows suspense (Turning point) In the novel that suprises the reader. 
+
+4) Falling Action or Resolution: this part demonstrates how the character had done accordingly in the rising action. (If we have a rising action we have the falling action.)
+
+Major plot elements would be:
+Character
+Conflict
+Complication
+Crisis-Climax
+Change
+Resolution
+
+There is however another school of thought that involves 8 parts of a plot. 
+Point of entrance
+exposition
+defining event
+rising action
+crisis
+falling action
+denouement
+closure
+	You train under a commanding officer Bezerik for a time with your comrades. It is here that you learn that the popular game ‘Divine Righteousness’  is actually the Sumivacen’s method for exterminating peaceful planets, ones that are deemed useful by the Sumivacen for their natural resources.
+	It is after some time that you choose your primary type of space vessel and your primary type of ground war weaponry and abilities. These choices, however, only ensure that you are able to bolster the skills that you wish to upgrade more quickly and to higher levels than the un-chosen classes. Other classes’ weaponry, ships, and skills will not be closed to you other than the very best and advanced.
+	As you advance in your skills, and complete skirmishes and missions to allow the rebellion to gain a foothold in the galaxy, you also unlock certain perks, such as the opportunity to acquire faster, more powerful ships, equipment, and abilities.
+
+What is the victory condition?
+	The player wins the game when they discover the Tokogae within the Eye of Nydera, and are able to successfully defend the fortress against the final Sumivacen assault.
+Online Campaign Narrative
+Overview
+
+Victory Points
+	A victory point is given at the end of every successful encounter against the Sumivacen, and a victory point is taken away at the end of every failed encounter against the Sumivacen. There are two sets of victory points in Schism. The first set of victory points are a collective currency and represent the overall confidence that the leadership has in the success of the Eve Rebellion, and how willing they are to spend the necessary capital to ensure its success. These victory points can be spent in order to secure perks and attempts to conquer strategic positions throughout the galaxy, known as Invasions. Invasions have a possibility of failing. In order to spend victory points, players must vote on what it is they want, and whichever has the highest votes is the item or conquer attempt that is purchased, resulting in a loss of total victory points.
+	The second type of victory points are personal victory points that are given to a player at the end of every successful encounter against the Sumivacen that they are a part of, and are taken away at the end of every failed encounter against the Sumivacen. These points represent the overall confidence that the leadership has in the individual player. The player can then use their personal victory points to purchase the individual perks that are unlocked for purchase by the collective. The following section lists the items and perks that can be purchased through the use of Victory points.
+By Collective:
+
+Additional Mothership
+Agricultural Assistance
+Temporary Capital
+Industry Assistance
+Invasion of Sumivacen World
+Mothership Upgrades Access
+Research Assistance
+Ship Damage Increases Access
+Ship Defensive Increases Access
+Weapon Clip Size Increase Access
+Weapon Damage Increase Access
+
+By Individuals
+
+Agricultural Assistance from Leadership
+Temporary Capital 
+Industry Assistance
+Mothership Upgrades
+Next Tier Armor Unlocked for Purchase
+Next Tier Ships Unlocked for Purchase
+Next Tier Weapons Unlocked for Purchase
+Research Assistance
+Ship Damage Increases
+Ship Defensive Increases
+Weapon Clip Size Increase
+Weapon Damage Increase
+
+
+Conquering a Sumivacen Held Planet or Outpost
+	Victory points can be spent to purchase an Invasion to conquer a Sumivacen held planet or outpost. However, the point price of each planet can be variable, depending on the level of defense that location has on its own, and also depending on how much defense the surrounding Sumivacen areas have, as the target will no doubt call for reinforcements. Once the player collective has chosen a location to invade, preparations will be made to plan and execute an assault on the target. There will be a countdown on the HUD of every player that will let them know when the assault will begin. This assault will start on the next real world Friday evening and may last for several hours or days, depending on how effective the players are at conquering or how high the defense score of the Sumivacen area is. All other battles will be suspended as draws and cannot be re-entered until the Sumivacen space is conquered or is able to survive the assault. All ally Motherships will withdraw from their current positions in order to regroup at the invasion site where they will serve as the respawn points and headquarters for the Eve Rebellion. The Sumivacen will usually be expected to match or to exceed the number of Eve Rebellion Motherships during an invasion.
+	Every player will not be required to be there all the time, but a player presence must be maintained in order for victory to be assured. It is at this time that only Eve Rebellion colors may be donned on ships and Androids, in order to show solidarity against the Sumivacen force. If the Eve Rebellion is successful in its invasion of a Sumivacen held plant or outpost, its map will then be available to players to purchase for one dollar in an online store. This is the only micro-transaction that will exist in the game.
+
+Offline Game Progression
+	As the player levels up, she will encounter enemies of comparable strength and ability whenever she discovers a new location. However, when she revisits already discovered locations, the level at which she encountered those enemies will be the same, while she has the opportunity to feel more powerful while defeating weaker enemies. (I don’t think I like this idea. Enemies should be stronger or weaker depending on where they are posted by the Sumivacen and how far away any reinforcements might be)
+Online Game Progression
+	The levels of enemies depend on two factors:
+The average Level of ALL active online players
+and the average level of the players in any given sector.
+
+
+The Sumivacen
+
+About the MMO
+General:
+	A large, sandbox galaxy, ripe for exploration, defense, exploitation, and conquering. Each player can act autonomously and interact with other players through PvP and cooperative campaign Online modes. It is possible at any time for players to do damage to each other, but offending parties can be punished by the Rebel leadership. These punishments may range from a temporary decrease in capital to loss of purchased bonuses. Though a bulk of the players may enjoy the PvP arenas, at any given time, Sumivacen attacks will be broadcast to each player. Certain incentives and rewards are offered so that the Sumivacen attacks are not ignored.
+
+PvP:
+	Players enter designated areas to participate in competitive ground and space battles. Their avatars are hooked up to simulation machines in the game, so that no one is truly hurt during these “training exercises”. For each round, an area of space is chosen at random from a list of locations that can support space warfare, ground warfare, or both, depending on the chosen game type of each player. Scores are tracked, and awards are given to those who complete challenges within the PvP arenas.
+
+Quest Ideas
+* Sumivacen attack rebellion space  take captives  Players must free hostages and/or shut down facility and/or find out reason for facility’s existence.
+* Covert insertion into Sumivacen space with intention of sabotage and ship or technology capture.
+* Defense of world/space station/mining facility/city under attack
+* Exploration and scouting
+* Huge space and ground battle (bulk of players vs. sizeable Sumivacen offensive force) (Best if scheduled and advertised throughout the gaming world beforehand, much like a weekend event)
+*Liberation of persons on Sumivacen controlled locations
+Beginning of a Battle
+
+MMO Mission Types
+
+Assault:
+
+Defend:
+
+Liberate:
+
+Divide and Conquer:
+*Break a mission up into three initial objectives to be executed by three separate groups of squads simultaneously. Allies converge for a while, and then split into two groups to handle the next phase of the operation. Players then reconvene for a boss battle or for defending a fortress from Sumivacen attack.
+
+PVP Mission Types
+King of the Hill:
+	- 1 Pod?
+Team Deathmatch
+
+Free-For-All
+
+Assault/Defend
+
+Chapter 2: Setting Overview
+General Look and Feel
+The Milky Way
+Space: 
+	The galaxy is essentially broken up into three parts…
+
+Player Space:
+	One part of space, consisting of the Eve Rebellion Home Base and player created homeworlds is located at the fringes of the galaxy, far away from the galactic core, where the Sumivacen presence is much more prevalent. These planets, space stations, mining colonies, and territories are permanently held by the players themselves. Though the Sumivacen can attack these areas at any given time, the worst that they can do is decrease production of held facilities or destroy any surface or space defenses or structures. It will not be possible for the Sumivacen to conquer or occupy any rebel planets for an extended period of time. Enemies will need to be routed, and any damage repaired before planet production gains full capacity.
+	Players will be able to freely move within this territory, visiting friendly planets and building defenses against any invading Sumivacen force. The Eye of Nydera is the Eve Rebellion’s home base and is located in this territory. The single player campaign will mostly focus on establishing the Eye of Nydera as a home base and also booting up all of its functioning, player utilized parts, which will be available to the player online once they unlock them offline.
+
+Sumivacen Space 
+	This part of space is permanently held by the Sumivacen. This territory consists of the area emanating from the core of the galaxy to several hundred light-years out, with the exception of Atom’s Rib, which juts out to within several light-years of the border of the Milky Way. Main facilities, colonies, and military might rest within these borders. A shroud of mystery surrounds the Sumivacen domain, as their automated defense grids are more than just a little formidable, making invasions into the inner systems currently impossible.
+ 
+Regent Space 
+(Organization of Governors that are somewhat independent of but answer to the Sumivacen, less defended)
+
+	This part of the galaxy can only be described as neutral due only to the fact that any of the planets or facilities cannot be permanently held by either faction. In constant turmoil, these locations often change sides, either through rebellious action of the natives, to religious indoctrination by the Sumivacen, to plague, famine, and civil war. The untamed wilds of the galaxy. Exhausted resources tend to deter the Sumivacen from overpowering the less powerful governors of the neutral zone, and constant turmoil prevents the rebellion from getting a significant foothold.
+
+Origin Homeworlds
+(Generated Fractal planet picture, brief description, then whatever relevant attributes that are used based on INSPIRATION folder, make a pretty chart :D)
+Planet One:
+Origin:
+Human
+Attributes:
+
+Planet Two:
+Origin:
+Krod
+Attributes:
+- Nydera is a large world, with a gravity force over 1.5 times that of earth.
+
+Planet Three:
+Origin:
+Dren
+Attributes:
+
+Planet Four:
+Origin:
+Ukato
+Attributes:
+Planet Five: 
+Origin:
+Keeg
+Attributes:
+
+Planet Six:
+Origin: 
+Erauqs
+Attributes:
+
+Planet Seven:
+Origin:
+O’Emal
+Attributes:
+
+Planet Eight:
+Origin:
+Ostaf
+Attributes:
+
+Planet Nine:
+Origin:
+Z’Tulc
+Attributes:
+
+Planet Ten:
+Origin:
+Dormin
+Attributes:
+Eye of Nydera:
+Origin:
+Attributes:
+Travel
+
+Scale
+
+Objects
+
+Weather
+
+Day and Night
+
+Time
+
+Chapter 3: Other Worlds
+PlanetName/SpaceAreaName One:
+Synopsis:
+
+Introductory Material:
+
+Objectives:
+
+Physical Description:
+
+Map:
+
+Critical Path:
+
+Encounters:
+
+Level Walkthrough (MAIN MISSION TYPE ONE):
+
+Closing Material:
+
+Tutorial Level
+
+Chapter 4: Characters
+Creating A Character
+Player
+Leveling Up:
+* Chess inspired leveling system
+Total: 150 Level Cap
+
+First Pawn
+5 Tiers
+Rook’s Pawn
+5 Tiers
+Knight’s Pawn
+5 Tiers
+Bishop’s Pawn
+5 Tiers
+King’s Pawn
+5 Tiers
+Queen’s Pawn
+5 Tiers
+King’s Rook
+10 Tiers
+Queen’s Rook
+10 Tiers
+King’s Knight
+10 Tiers
+Queen’s Knight
+10 Tiers
+King’s  Bishop
+10 Tiers
+Queen’s Bishop
+10 Tiers
+King
+15 Tiers
+Queen
+15 Tiers
+
+
+
+Gaining Experience
+	In the following list are all of the ways that a player can gain experience within Schism.
+Contributing to the Defeat of an Enemy
+	No matter the player’s level of contribution to the defeat of an enemy, be it one shot or 100, they shall receive the same amount of experience as everyone else who contributed to that enemy’s defeat. The experience reward given will be the max amount possible for each player. The amount of experience for each player can be variable, however, depending on their level in relation to the level of the enemy defeated. This will be explained later on. The point is, no one will get less experience for a defeat than they would get if they were defeating the enemy on their own.
+Veteran Defeat
+	Extra experience is awarded when players are able to defeat an enemy who has defeated an ally previously.
+Multi-Kill
+	Extra experience is awarded when a player is able to contribute to the defeat of enemies in quick succession.
+Savior
+	Extra experience is awarded when players are able to defeat an enemy who is engaged with a losing ally.
+Infiltrator
+	Extra experience is awarded when a player defeats an enemy that is unaware of their presence and is not currently engaged in combat.
+Hunter
+	Extra experience is awarded when a player contributes to the defeat of an enemy from long range, with more experience being granted the farther away the target is and only if the player fired the final shot. One meter translates to a set number of experience points after fifty meters e.g. a defeat at 49 meters grants the player basic experience points, 50 meters grants the player the base bonus experience amount multiplied by 50, and 51 meters grants the player the base bonus experience amount multiplied by 51.
+Pod Takeover
+	Experience is awarded when a player contributes to the takeover of an enemy Pod.
+Pod Destruction
+	Experience is awarded when a player contributes to the destruction of an enemy Pod. However, an experience penalty will occur if a player contributes to the destruction of an ally Pod.
+System Hack
+	Experience is awarded when a player contributes to the hacking of an enemy computer system. Experienced is granted based on the difficulty of the system hack and the hacking skill of the player.
+Disabling an Enemy Mothership
+	Experience is awarded when a player contributes to the disabling of the enemy Mothership, resulting in an automatic victory for the Eve Rebellion.
+Improving a Class Skill Level
+	Experience is awarded when a player uses a skill enough times in order to level it up. Every level of a skill has a set number of experience points that is awarded to a player.
+Improving a Weapons Skill Level
+	Experience is awarded when a player uses a weapon enough in order to level it up. Every level of a weapon skill has a set number of experience points that is awarded to the player.
+Accomplishing an Assigned Objective
+	Experience is awarded when a player contributes to the successful execution of an objective assigned by a squad leader.
+Assigning a Successful Objective
+	Experience is awarded when a player acting as a squad leader assigns an objective and it is carried out by her and the rest of the squad successfully.
+Surviving a Battle with Zero Defeats
+	Experience is awarded at the end of a battle if the player does not die during a battle with the Sumivacen.
+Communal Experience Pool
+	Whichever player earns the most experience not including any skill or weapons level ups, their experience amount is put into a communal experience pool while also keeping their same amount of experience. That pool is then divided evenly between all of the players who participated in the battle against the Sumivacen, rounding down in the event of an indivisible number. Lower level players have a better chance of being the player to contribute to the experience pool as they get more experience than a higher level player for the same kill. However, players are only able to access this pool if they have reached a level equal to or exceeding King’s Rook Tier 1 (Level 31).
+Earning an Award
+	Awards are granted at the conclusion of a battle with the Sumivacen. These awards do not contribute to the communal experience pool. The game will keep track of the amount of times that the players have earned their rewards, but there will be no leaderboards, just personal bests that only the players themselves have access to.
+
+Award
+Description
+1st Place
+2nd
+3rd
+Acrobat
+These players have the highest damage given to damage taken ratio.
+Battle XP x 1.10
+Battle XP x 1.05
+Battle XP x 1.025
+Avenger
+These players earned the Veteran Defeat experience bonus the most out of everyone in a battle.
+Bonus XP x 2
+Bonus XP x 1.50
+Bonus XP x 1.25
+Bronze Cross
+These squads have been the most effective when accomplishing assigned tasks.
+Battle XP x 1.05
+Battle XP x 1.03
+Battle XP x 1.015
+Conqueror
+These players have earned the Pod Takeover and Pod Destruction experience bonuses the most.
+Bonus XP x 2
+Bonus XP x 1.50
+Bonus XP x 1.25
+Destroyer
+These players contributed to the defeat of the most opponents.
+Battle XP x 1.15
+Battle XP x 1.10
+Battle XP x 1.05
+Gold Cross
+This squad completed the final objective during a battle. (Includes disabling a Mothership)
+Battle XP x 1.25
+NA
+NA
+Hacker
+These players earned the System Hack experience bonus the most out of everyone in a battle.
+Bonus XP x 2
+Bonus XP x 1.50
+Bonus XP x 1.25
+Savior
+These players earned the Savior experience bonus the most out of everyone in a battle.
+Bonus XP x 2
+Bonus XP x 1.50
+Bonus XP x 1.25
+Sharpshooter
+Out of shots fired, the players have hit more than all of the others. Consideration is only given to those who have fired 25 shots or more.
+Battle XP x 1.15
+Battle XP x 1.10
+Battle XP x 1.05
+Silver Cross
+These squad leaders have been in command of the most effective squads.
+Battle XP x 1.05
+Battle XP x 1.03
+Battle XP x 1.015
+Strider
+These players have moved the most during a battle.
+Battle XP x 1.10
+Battle XP x 1.05
+Battle XP x 1.025
+Student
+These players earned the most combat based experience for a battle.
+Battle XP x 1.10
+Battle XP x 1.05
+Battle XP x 1.025
+Tank
+These players have taken the most damage without dying throughout the game.
+Battle XP x 1.10
+Battle XP x 1.05
+Battle XP x 1.025
+
+Experience Penalty
+	A penalty is given to a player when they commit an act against the player collective. This is not in the form of the loss of experiences points, but rather a percentage loss of future experience points, the percentage and duration of which is to be determined depending on the egregiousness of the act. The percentage can stack e.g. a player commits a traitorous act and is docked 15% of their experience points for the next hour (somewhat exaggerated) of play time. 15 minutes in, the player commits another traitorous act that would, on its own, result in a 5% decrease of future experience for 30 minutes of play. However because the previous act’s penalty is still in effect, the player now suffers a 20% decrease in future experience for 30 minutes, and then a 15% decrease in future experience for the next 15 minutes of play.
+	The following is a list of actions that will result in an experience penalty.
+Offense
+Description
+Duration
+Percentage
+Contributing to the Defeat of an Ally
+Damaging an ally during battle that immediately contributes to their defeat, i.e. they are not able to recharge their deflectors after taking damage from you and are defeated.
+3 min.
+The percentage of deflector power that the player loses as a result of being attacked by an ally.
+Ally Pod Destruction
+Damaging an ally Pod during battle that immediately contributes to its destruction, i.e. it is under attack by the Sumivacen and is not able to be repaired when you damage it and it is destroyed.
+10 min.
+The percentage of health that the Pod loses as a result of being attacked by an ally.
+Camping
+Remaining in one spot for more than 2 minutes during a competitive squad match and not a Sumivacen battle and when the player is only making kills at close range (less than 3 meters away).
+5 min.
+5%
+Suicide
+Causing harm to one’s android to the point of needing to respawn.
+5 min.
+10%
+Failing a Superior’s Assigned Objective
+When the player is filling the role of squad member and she fails an assignment by her squad leader.
+7.5 min.
+15%
+Assigning a Failed Objective
+When the player is filling the role of squad leader and her squad fails to complete the assignment.
+10 min.
+25%
+
+Player Character Customization
+Normal Everyday colors and Eve Rebellion colors (Blue and White)
+N[on] P[layer] C[haracters]
+Character One: ENEMY or ALLY
+Backstory:
+Personality:
+Look:
+Special Abilities:
+Relevance to Game Story:
+Relationship to Other Characters:
+Statistics(?):
+Attributes
+Deflector Power
+
+Skill Trees and Perks
+	Skills can be increased through practice, which affects base numbers for abilities but does not endow any perks to skills. Players can spend their perk points whenever they level up, and can save their perk points to spend later if a particular perk isn’t available to them yet. An increase in any skill through practice endows unto the player a set number of experience points that contribute to the level of the character.
+Pilot
+	By investing in this skill tree, the player has the opportunity to become very efficient in space combat. Pilots are especially proficient at in-flight repairs and are able to survive for long periods in space. Players who invest into this skill tree are also able to access certain ship maneuvers that make it more difficult to acquire them as a target, along with unique ship options and weaponry.
+Perks
+Increased repair rate.
+Advanced aerial maneuvers.
+Technician
+	By investing into this skill tree, the player has the ability to become a fixing fighter. Certain perks allow the player to more efficiently repair and upgrade auto defense and player controlled turrets, as well as ammo depository stations. Additionally, players will be given access to several perks that allow them to buff ally and take over enemy pods. Investment into this skill tree will result in access to perks that focus on the use of the unique technician repair tool as well as the Blast-Shot.
+Perks
+Mechanic Skill Increase
+Blast Shot Radius Cutomization
+
+Hunter
+	By investing into this skill tree, players have the opportunity to become a master of neutralizing targets from a distance. Skills allowing for more efficient use of camouflage and stealth field generators allow for the stealthiest of approaches by those who invest in the Hunter skill tree. Additionally, special perks will be available when relating to Long-Shot weapons if the player invests in this skill tree.
+Perks
+
+Infiltrator
+	Players who invest in this skill tree are experts in computer hacking techniques that allow them to quickly and effectively take over key strategic points on the battlefield and on enemy motherships. Perks in this class also allow a player to become less effected by weight, allowing for more dexterous and quick movement.
+Perks
+
+Heretical Priest
+	Players who invest in this skill tree will be granted access to perks that increase the potency of their Discharge and Overcharge buffs for allies and Siphons against enemies. Players will also be given access to certain unique Stave powers when they invest in this skill tree.
+Perks
+
+Soldier
+	Players that invest into this skill tree will be given access to perks that have to do with all-around combat efficiency and flexibility. Soldiers have access to all advanced weapon perks, with some extra thrown in for the heavy repeater and anti-personnel grenades.
+Perks
+
+Officer
+	Players who invest in this skill tree will be given access to perks resulting in more potent GDA’s for allies (usually resulting in increased damage and/or speed for effected allies) and enemies (usually resulting in lowered defense capabilities or target confusion). Players who invest in the officer class will also be given access to perks dealing with Blades and Magnums, as well as personal perks such as having the ability to call in air strikes from orbit should the situation permit.
+Perks
+
+Reaver
+	Players who invest in the Reaver skill tree will find that their skills work particularly well in short to medium range. Reavers are able to invest perks in order to use Tormentas more effectively.
+Perks
+Weapon Skills and Perks
+	The skill and perks that are weapons based are unlocked automatically whenever the player increases their skills to a certain point with a weapon. This can be accomplished by repeated use with a weapon. Weapon skill increases contribute to the leveling-up experience of the player character by attaching a numerical experience amount to every level increase.
+
+Origins
+Human (Those Left Behind)
+Homeworld:
+Earth OR Egarouc (courage backwards)
+Physiology:
+Most like modern day human, maybe enlarged eyes, but shrunken craniums due to Sumivacen enslavement and lack of education.
+Favored Classes:
+- Humans tend to be competent but do not necessarily excel at all classes.
+Favored Ships:
+- Humans can be mildly proficient with all ships, and must work a little harder to hone their skills to match those that are more biologically inclined to do well.
+Powers:
+-
+Krod (Sturdy and proud)
+Homeworld:
+Nydera
+Physiology:
+Sturdy, short (at most 2.5 feet high), trunk legged creatures. Rippling muscles, but a stereotypically calm and composed people. Biological increase in strength.
+Favored Classes:
+- Soldier, Reaver
+Favored Ships:
+- Juggernaut, Bomber
+Dren
+Homeworld:
+Serendis  OR Ecnegilletni (intelligence backwards)
+- Physiology: Taller than average, in addition to slight and fluid build that gives the perception of further increased height. Caused by planet’s lower gravity. Nimble and deft hands suited for accurate mechanical manipulation and swift computer hacking.
+Favored Classes:
+- Technician, Infiltrator
+Favored Ships:
+- 
+Ukato
+Homeworld:
+Physiology:
+- Translucent skin, organs, and bones of varying hue due to homeworld’s complete water coverage. Must wear an enviro-mask at all times that supply enough of their planet’s water to breathe and recycle for extended periods. (think the blue guy from Hellboy)
+Favored Classes:
+Favored Ships:
+Keeg
+Homeworld:
+Physiology:
+- Live on terrestrially-locked dark side of planet. Developed low melanin, large eyes for increased light sensitivity. Opposite side of planet too hot to support life. (Either yeti or orc like.)
+Favored Classes:
+Favored Ships:
+Erauqs
+Homeworld:
+Physiology:
+- Blackened, hardened, scale-mail like skin. Shriveled (not stunted) body and slits for eyes. Both caused by adaptation to extremely caustic and atmosphere and on their planet that is also terrestrially active.
+Favored Classes:
+Favored Ships:
+O’Emal
+Homeworld:
+Physiology:
+- Completely raised in a microgravity environment. Developed to become nothing but loosely connected wisps of solid matter and vapor (or maybe just very thin and aerodynamic humanoids with fins for navigating air in microgravity environments).Favored Classes:Favored Ships:
+Ostaf
+Homeworld:
+Physiology:
+- large external eardrums and increased head mass. Caused by thin atmosphere. Able to detect low frequency sound waves.
+Favored Classes:
+Favored Ships:
+Z’tulc
+Homeworld:
+Physiology:
+Favored Classes:
+Favored Ships:
+
+Dormin
+Homeworld:
+Physiology:
+Favored Classes:
+Favored Ships:
+
+Rotas
+Sumivacen in their “Un-ascended” form. Considered to be worse than other origins by sumivacen due to their “stubborn ignorance”.
+Homeworld:
+Physiology:
+Favored Classes:
+Favored Ships:
+
+Sumivacen
+Homeworld:
+Unknown.
+Physiology:
+Unknown.
+Favored Classes:
+Whatever kills you quickly.
+Favored Ships:
+See FAVORED CLASSES.
+What We Do Know:
+Chapter 5: Class and Origin Factions
+Class Factions
+Academiae Clanculum
+Infiltrators
+Academiae Fortis Dux
+Officers
+Academiae Sanctus
+Heretical Priests
+Academiae Technicae
+Technicians
+Aula Venatorum
+Hunters
+Praesidium
+Soldier
+Sanguinem Saeva
+Reavers
+Spatium Fuga Conlegium
+Pilots
+Origin Factions
+
+Section 7: In-Game Technology
+General
+* All of it stolen from the Sumivacen.
+Chapter 1: Equipment
+Weapons
+(All guns are sleeves that the player characters slip into, with ornament slots on either side of the arm, and more attachment places such as scope and sights. When the player aims, the player’s helmet’s HUD changes to the view of the hand instead of making the player force their head to their arm in order to aim. The player HUD is a transparent enhanced reality screen so that they can see through it, but then have images flash onto the environment for wind, damage, and other reasons. There can be GDA’s that affect these screens for enemies and allies alike by using interference, not just static, but false images as well. Maybe fields of it to fool people into thinking that somewhere will charge their shields or will be safe from enemy fire or is dangerous to cross, like a holographic illusion.)
+Short-Range
+Stave
+	Hand-held AOE effects that focus on charging (Discharge) and power buffs (Overcharge) for allies. Against enemies, the stave can damage and store (Siphon) power to save for allies. Staves cannot kill their opponents, as they only feed on and affect the deflector power sources, but stave weapons can significantly weaken opponents to be picked off by allies, as well as affect their ability to fight effectively. 
+Blade
+- Short range
+	- Continuous beam (variable length and width)
+	- Light melee weapon
+	- Officer skill set
+	- Upgradable Areas
+		- Blade
+Magnum
+Like a magnum.
+- Short range accuracy
+	- Low damage
+	- Single shot (Automatic and burst fire settings for Officers)
+	- Weight – Negligible
+	- Upgradeable Areas:
+		- Sights
+		- Aiming Reticule (Sight dependent)
+Repeater
+Like an SMG.
+- Accurate at short range  Most accurate hipshot
+	- Medium-Low Damage
+	- Automatic and burst fire settings
+	- Low weight
+	- Used by Infiltrators and Technicians
+Blast-Shot
+Like a shotgun
+- Short range  high damage
+	- Pump action or semi-automatic fire
+	- Medium-heavy firearm
+	- Used by Soldier, Technician, and Reaver Classes
+Sphaera Gun:
+Blast of energy radiates from character/muzzle that damages nearby enemies and heals allies. Blue or other color of orb, depending on the effect?
+Mid-Range
+Heavy Repeater
+Like an assault rifle.
+	- Moderate-long range accuracy (skill dependent)
+	- Average damage
+	- Average weight
+	- Burst, single-shot, and continuous fire settings (may be model dependent)
+	- Used by Soldiers
+	- Flashlight
+	- Upgradeable areas:
+		- Grenade Launcher
+Long-Range
+
+Longshot
+Like a sniper rifle
+- Highest scoped accuracy (skill dependent)
+	- High Damage
+	- Bolt-action and Semi-automatic models
+	- Average  higher weight
+	- Used by Assassins
+	- Upgradeable Areas:
+		- Scope Zoom and Type
+		- Bipod
+Unique
+Tormenta
+	Tormentas are the heavy weapons used in the Schism universe. There are three kinds, the Shredder, Mortar, and Hydra. In the spirit of power balance, the deterrence of a lone-wolf mentality, and group cohesion, any player who so chooses to use a Tormenta class weapon will be exposed to several inconveniences. They are the following.
+	In order to use any of the Tormenta weapons, players must forgo the use of secondary weapons, reasons being that to add a secondary weapon, even one so insignificantly weighted as a magnum, would greatly reduce the speed and effectiveness of an already slow and laborious weapon that already possess a movement penalty while wielding it. Players must also forgo the use of general freedom of movement as they will be most vulnerable alone and so will be subject to always travel in well prepared groups on the battlefield. This is due to not only the mobility restrictions on this class of weapon, but also because Tormentas must be deployed in order to fire. The player must choose to deploy their Tormenta wherever they wish, but the time it takes to do so leaves the player vulnerable to attack. Additionally, movement of a Tormenta class weapon during deployment will be even more limited than if it were in the standby state, reducing the player’s ability to correct their deployment should it prove less than perfect. In order to return to the standby state of the Tormenta and thereby reinstate normal speed for the player, time must again be taken to do so. The standby state of a Tormenta class weapon is having it pointed upward on the back of the player. When the deployment process begins, the Tormenta slides in front of the player on the servos that are attached to the shoulders of the player’s armor and is braced against their chest. Once the Tormenta is in front of the player, a tripod extends from its base, allowing for increased stability. The last step in deployment of any Tormenta class weapon is the powering up of frontal shields and targeting systems.
+	Tormentas also have somewhat of an advantage as opposed to other weapons, and not just in their ability to dole out large amounts of damage. Every Tormenta class weapon possesses two targeting modes, one for free-aim and another for specific targets, usually vehicles. With free-aim, targets appear normal in the game world, with only some enhanced reality images that come standard to every player. However, when dealing with vehicles, players have the option of entering the target mode. With this mode, players can highlight individual vehicles to pick off from a larger group, or in the event of an aerial enemy, players can more easily target their predicted paths. Players can change targets at any time, and in the event of wielding a hydra, can target multiple enemies at once.
+	Though the Tormenta may be inconvenient to wield, its level of destruction is unparalleled in the hands of an effective user, and its teeth more than make up for its unruly wield. Tormentas are seen as mainly defensive and support weapons, but can be invaluable when establishing a forward position against a dug in enemy so long as they have the right amount of backup to complete the task.
+
+Tormenta Shredder
+	The Tormenta Shredder is a mainly anti-personnel weapon that can also be used as a light anti-air machine gun. Its real world equivalent would be a .50 caliber machine gun. When fired, it ejects an automatic stream of plasma bolts toward a target. Its targeting mode only works on smaller aerial enemies, as their lighter armor and shields are more vulnerable to the constant stream of bolts.
+Damage: med
+Firing Type: Automatic bolt
+Preferred Targets: Ground troops and lightly armored aerial attackers
+Tormenta Hydra
+Damage: high
+Firing Type: Lock-on exploding projectile
+Preferred Targets: Heavily armored land and air vehicles
+Tormenta Mortar
+Damage: med-high
+Firing Type: Semi-Automatic fireballs
+Preferred Targets: Enemy groups and slower land vehicles.
+Universal Upgradable Weapon Areas
+	- Barrel (Increase range, accuracy, and damage)
+	- Grip (Increase accuracy)
+	- Stock (Decrease/increase weight while increasing/decreasing recoil, also effects melee)
+	- Scope Type
+	- Aiming Reticule (preference)
+	- Ammo type
+	- Ornaments
+* Weapons are open to all classes, but certain classes are more proficient with certain weapons.
+Tools
+Technician Repair Tool
+- Used by technicians to restructure pods for the cause. Consists of a welding head, and a bulky accessory to allow human interface with the tool.
+- Upgradeable Areas:
+- Ignition Gas Type
+- Amount of Ignition Gas
+- Interface
+- Heat Tolerance (Length of burn)
+Infiltrator Hacking Tool
+
+Deployables
+Frag Grenades
+
+Stun Grenades
+
+EMP Grid Traps
+
+Proximity Mines
+
+Remote Explosives
+
+Gas Deployment Apparatus (GDA)
+- AOE grenade like device used by officers to either bolster their own forces skills, abilities, and power, or to negate the abilities, skills, and power of their enemies. Can be thrown to have their contents released or ejected at the feet of the officer from their holding compartments to releases their contents there. Two types, Proactive and Conflictive. Each officer is given 2 proactive and 4 conflictive GDA’s at the start of the round. Proactive GDA’s are bluish green, whereas conflictive GDA’s are white with a strobe pulse light.
+- Upgradeable Areas:
+- Effect
+- Range
+- Affected Areas
+- Disbursement Rate
+- Ejection Rate
+Armor and Other Garb
+	There are many different types of Armor in this universe. Their types vary in level of protection and recharge type. Each set of armor comes in four pieces; chest, arms, feet, and head. The levels of protection for the armor are heavy and light. So far, the groups of armor have been pretty self-explanatory, but the next set of armor genres will take a little explaining. Kinds of armor can also be split into recharge type. All armor has imbedded within it some type of deflector. The deflector acts as a barrier between shots fired at the player and the player themselves. As the player is shot at more and more, the deflectors within the armor start to weaken. However, depending on what type of armor the player is wearing, they are able to recharge the deflectors within the armor. Different kinds of armor respond to different types environmental stimuli in order to recharge, and depending on what they use to recharge, the armor may be more or less expensive. Any effects that armor may have on a planetary ecology are increased 1000 fold for player controlled asteroids. This next list of types of armors is listed from least to most expensive, and all armor types have a light and heavy type:
+	Liquid Fuel Armor: This kind of armor is powered by liquid fuel that is consumed by an internal combustion engine. The player cannot use the fuel in its raw form, and so must purchase and carry around their fuel supplies. There is a chance for these fuel supplies to catch fire and to explode during a battle. The armor continually recharges so long as there is fuel for it to consume, and the deflectors will maintain themselves at their current level if the fuel ever runs out. The sound generated by a Fossil Fuel armor type is not conducive to sneaking, and the heavier armor makes louder noise than the light armor as it has a larger internal engine. This type of armor also increases the CO2 levels of the atmosphere, as well as other harmful chemicals, and so over time will increase the warming effects on the planet if not addressed.
+	Steam Powered Armor: This kind of armor is powered by coal, but also has water reservoirs within it in order to create steam from the heat. The steam is ejected once enough pressure builds up, passing through the turbines at the back. The water in the system can rise in temperature not only through the burning of coal, which the player would have to purchase and carry around, but also when the deflectors are stressed at times of heavy fire, allowing for a burst of energy if the player is in trouble. It is possible to run out of water, however, and so the player may need to refill their reservoirs in a nearby body of water or by melting some snow in the reservoirs. It will take time for the water to heat up in order to start recharging, and will lower to the outside temperature if the coal runs out. The coal powered process ejects harmful chemicals and CO2 into the air, much like liquid fuel, but since Steam powered armor uses less fuel, its impact on the ecology of the planet is only slightly diminished.
+	Bio-Fuel Armor: This kind of armor is powered by burning either processed or raw plant matter. The efficiency of processed bio-fuel when compared to raw plants is 2:1. Like Liquid-Fuel armor, the player can carry around their own fuel supplies. When they wish, however, players can still use the plants in the world to recharge their shields at half the recharge speed but at the same level of fuel consumption i.e. one tank of raw plant matter will burn for just as long as a tank of bio-fuel while only recharging the shields at half the recharge speed. Like Liquid-Fuel armor, Bio-Fuel armor has a tendency to release CO2 and other chemicals, but to a much lesser degree, and will impact the ecology of the planet at a lesser but still significant rate.
+	Fuel Cell Armor: Fuel cell batteries operate on the premise that energy is generated when two particles, hydrogen and oxygen, fuse together to make water, which is the waste product for this type of armor. When the player runs low on hydrogen and oxygen, they can use their bio-fuel burner to separate water found in the world into these two compounds. The bio-fuel burner does not produce enough energy to recharge the deflectors, however. Players can also carry around reserve tanks, but it should be noted that these are very combustible elements. The use of Fuel Cell armor increases the amount of water on the planet over time, and so it will be possible for sea levels to eventually engulf major population centers unless the water is somehow removed.
+	Wind Armor: This armor is powered by wind moving through several turbines on the outside of the armor. The wind can be generated by falling or running or going into windy areas which will be designated on the player’s HUD if they choose to use this type of armor. The recharge speed depends on the speed of the wind going through the turbines. There are no negative effects on the environment due to the wind armor.
+	Hydro Armor: This armor is powered by water moving through several turbines on the outside of the armor. The water flow can be generated by a player swimming through water or by standing in a stream or beneath a waterfall. The deflector recharge rate is variable depending on the speed and amount of water that is flowing through the turbines. This armor does not affect the planet ecology in any negative way.
+	Solar Armor: This armor is powered by the rays of whichever solar body is nearest to the planet that the player is fighting on. The amount of power that this armor receives from the sun is variable depending on the cloud cover, the elevation of the player, the planet’s distance from the star, and the type of star that they are under. The elevation plays a role in power gain because the star’s rays are less diffuse at higher altitudes. The type of sun plays a role in power gain because hotter and brighter stars, anywhere from yellow to white, blast out much more solar energy than red or orange stars. And finally, the distance that the planet is from the star plays a role in power gain due to the fact that less solar energy hits a planet if it is situated farther away. There are no negative effects on the planet ecology from this armor.
+Fusion Armor: This kind of armor is powered by atomic fusion. The fuel that is used by this type of armor is known as fuel rods, and can be quite expensive as they can last for up to a month in real world time. It is also possible for this kind of armor to emit clouds of radiation at un-predictable points throughout a battle, damaging nearby flora, fauna, enemies, and even allies. Players using this kind of armor while in the flesh have a high chance of getting radiation poisoning. This type of armor continually recharges at a very high rate, and so must be overwhelmed quite a bit in order to de-activate the deflectors completely. However, if the armor is overwhelmed too quickly, it’s possible to start a chain reaction that could devastate a rather large area on the map. Players will be highly cautioned while using this type of armor indoors.
+	Leech Armor: This armor has the unique ability of harvesting any residual power that may exist within the workings of destroyed androids, and utilizing that energy to recharge the deflectors. This armor has no effect on planet ecology. There is not much energy within a destroyed android, but the one perk with Leech armor is that it is possible to gain all of its effects if the player is only wearing one piece of it. However, the more pieces of Leech armor that the player wears, the faster it can absorb any pre-set amount of residual power from enemy and ally androids. However, leech armor has the lowest armor rating of any armors.
+	Cardiac Armor: This armor gains power by merging itself with the player’s cardiovascular system. It does this by coordinating with multiple mini turbines imbedded into the main arteries of the character. When the player is resting, the deflectors slowly recharge. If the player’s in-game heartbeat increases due to stress, such as running or falling, then the cardiovascular turbines speed up and charge the deflectors more quickly until the character’s heart rate decreases. This type of armor is by far the quietest and easiest to maneuver in. This armor is highly favored by Assassin’s and Infiltrators. This armor does not affect the planet ecology in any way.
+Chapter 2: Spacecraft
+Spacecraft
+Tentative Ship Type List (alternate names):
+Fighters
+Bomber
+- Best when fighting ground and slow moving space targets. Main guns would be relatively weak compared to those of the fighter and other ship classes, but the payload of the bomber could be devastating.
+
+Striker
+- Basic fighter. Primary weapons would consist of an even number of frontal lasers. Secondary weapons would consist of a limited number of either heat-seeking weak missiles, or stronger line of sight missiles. The fighter is best against other fighters and small spacecraft.
+
+Interceptor (zapper?)
+- Stealth fighter. Ability to cloak on the battlefield. Ability to target critical systems of enemy ships while cloaked, and able to ‘paint’ enemy ships for allies such as fighters and bombers, allowing any cloaked enemy ship to be revealed. Relatively weak shields and weapons, but fast with great maneuverability and evasion, as well as ship computer hacking abilities. Cannot fire while cloaked. Modified radar to detect cloaked enemies...(I must figure out how this would work so that it works effectively, but also so that it’s not too easy. Maybe have cloaked enemies “pulse” every few seconds, allowing them to be pinged on the radar, but not necessarily easily spotted. Zappers might be able to have a flash light like device that they would use while cloaked that would prevent them from firing and moving at top speed while also revealing whatever the light struck on a cloaked vessel, within a certain range.)
+
+Juggernaut
+- Fighter-esque, but much slower moving, and main gun packs a more powerful punch. However they sacrifice fire rate for power. Best if used for initial assault. Strong shielding in the front provides for ultimate protection against frontal enemies, however, sparse shielding behind offers a point of vulnerability. Advisory: Juggernauts would be wise to only enter and immediately exit ‘hot’ areas of the battlespace, destroying what they can in waves. This tactic provides great attack without prolonging the vulnerability that the sparse back shielding provides. (Maybe give Juggernauts the ability to pivot their cockpit, shielding, and view while still maintaining their course)
+Cruisers
+	Cruisers are much larger than their fighter counterparts, and tend to act as support and defense vehicles than assault.
+
+Frigate
+- Only weapons consist of an automated turret defense grid. With no weapons controlled by the player, a certain amount of vulnerability is introduced. However, the player can maneuver the frigate in a way to ensure protection from other players, as well as superb execution of its ally repairing ability. Players can also exchange their ships mid battle by using the frigate docking bay. The frigate may have other AOE abilities. Due to its relatively slow rate of speed, bombers excel at taking out frigates. (1 of 2 ships with at 3rd person view due to size)
+
+Destroyer
+- Large defense vessel (think star-destroyer in Star Wars), with a minimal defense grid and one main gun with a cool-down rate. Destroyers are meant to take out large spacecraft, not individual fighters, though they can launch defense drones. They act as the ‘space artillery’. Usually escort frigates. Destroyers can take more damage than any other player ship.  Ability to bombard an area targeted by ground forces. Also vulnerable to bombers due to their size and lack of maneuverability. Also a candidate for AOE abilities. (1 of 2 ships with a 3rd person view due to their size.)
+NPC Ally Space Craft
+Cargo ships
+- These ships loom throughout the battlespace, usually around planets or dense asteroid fields. Since they cannot land, their only job is to be mules for offworld mining operations  They provide their allies with cover (indestructible, unless certain conditions are met) as well as any needed supplies mid and post battle, for a price.  These ships can be captured by enemies, thereby turning over all rights of use to that faction, either the players or the Sumivacen.  They can be captured either in space, where a ‘sphere of capture’ is visible, or can be captured on the ground by hacking attempts of infiltrators and the bypassing skills of the technicians.
+
+Mothership
+- There is at least one mothership under the control of each faction for every space battle. These ships are colossal, as they have the ability to hold within their bowels entire legions of frigates and destroyers, and their automated defense grids are nearly impenetrable. All ships and android hubs are stored within their stationary mighty frames. These ships, partly due to their immense size and defensive capabilities, cannot be completely destroyed during play, but their manufacturing capabilities that allow for player respawn can be damaged and put out of commission for the remainder of a battle due to enemy sabotage. During battle while inside the ship, players will have access to parts and weapons requisitions and outfitting offices, appearance modifying suites, as well as access to defensible areas of the ship should it be infiltrated. Friendly ships can also land in the hangers.
+* Any player ship can apply for transport status, which causes for a decrease in speed, but an increase in size, armor, shielding, and player android capacity. Until the transport ship is destroyed, androids can re-spawn at the location of the transport ship due to the hardware on-board that harvests decentralized Nano-bots. This hardware is the reason for the decrease in maximum speed of the ship.
+Chapter 3: Upgrades, Powers, and Effects
+Spacecraft Parts
+Spacecraft Powers
+Weapon Parts
+(All Upgrades can have (+/-) for attributes/skills/effects)
+Barrel
+Increase Length
+(+) power
+(+) length
+(+) weight
+Attachments:
+Beam Bayonet
+(+) melee damage and range
+(+) weight
+Silencer
+(+) Weight
+(-) Range
+Flashlight
+Scope
+- Type
+- Purely preference in most cases
+		- Exceptions:
+			- Sniper scope (+) accuracy & range (ACOG?)
+- 6x, 12x, and 12&6x zoom
+Aiming Reticule
+Preference
+Color
+Shape (Maybe self design?)
+Ammo Type
+Incendiary  Effective on Armor
+Basic  Effective on enemy shields
+Concussive  Less damage, chance to knockdown
+Explosive  More damage, less accurate, less ammo
+Zat (Missions only (maybe)) Instant Android incapacitation, nonlethal, grants shooter ability to download information from incapacitated android, also negates android alert system
+Ornaments
+	- (+/-) Attribute/Effect/Skill
+- Depending on level of player and weapon, multiple ornament slots may be used
+Weapon Powers
+Tool Parts
+Technician Repair Tool
+- Ignition Gas Type
+	- Effects heat and cutting power (speed of pod takeover/repair)
+- Gas Amount
+	- Effects amount of gas able to carry on the tool
+- Interface
+	- Effects chance of ignition and cutting power
+- Heat Tolerance
+	- Effects length of burn before overheating
+Powers
+Deployable Parts
+Gas Disbursement Apparatus
+
+Deployable Powers
+Armor Parts
+Armor Powers
+Effects
+Radiation Poisoning
+Chapter 4: Technology and Weaponry within the Environment
+AA Guns
+Ammo Dumps
+Androids and Pods
+* These androids are stored on motherships and on planets in cylindrical pod-like barracks ready for battle. At any given time, all of the pods on a planet are controlled by the ruling faction, and attacks can start when the farthest pod from the stronghold (Omega Site) is overtaken by the opposing faction. A fail-safe in the pods’ programs prevents initial complete takeover by any attacking faction through the pods’ computers by closing out all pods except the one closest to the stronghold (Alpha Site). This prevents remote access from the hacked pod.
+* The pod hubs are divided into six foot intervals, each containing 4 android soldiers. It takes 3 seconds to startup each segment once the one before it is empty (allows for slight respawn delay).
+* The pod hubs on the planets extend some few-hundred feet below the surface. The tops jut out about 50 feet into the air, and are surrounded by a much wider, round outer building. Stairs lead about midway up the height of the outer building to a door that opens up to the catwalk that allows access to the computers of the pod to infiltrators. The base of the pod has evenly spaced entryways leading to staircases along its base to allow access to the bowels of the working structure to the technicians below the main building. The same number of doorways is present above the computer doorway where newly spawned soldiers may exit.
+* The pod hubs on the motherships have their segments organized side by side and in several rows one on top of the other in large rooms that run the length of the ship. Each hub section is moved to the back of the construction line to restart the construction process. From the room where the players are respawned, all re-spawned units are able to launch their ships out into space.
+* All pod segments represent an android manufacturing plant. Each lower pod represents a step in the manufacturing process, with the second to last segment, the one before that one that is currently re-spawning fighters, representing the last step in hardware construction, and the last one representing software.
+re download and battle information. Mothership pods cannot be captured, only damaged; however, capturing planetside pods involves the skills of a technician restructuring the machines that build androids for the hubs to create their versions of androids, or the skills of an infiltrator who hacks the pod’s computer to rewrite the hub’s construction sub-routines to build their versions of androids.
+* When an Android is destroyed, its allies are immediately informed of it.
+* Android pod construction phase only builds generic skeleton with indicator lights marking their faction. For respawn, nanobots cover and reshape against the cybernetic skeleton depending on the player’s character. Allows to accommodate all species and armor types by changing shape and density as well as programming within the nanobots that imbue any equipment with special attributes.
+Mines and Other Traps
+		Shield Generators
+Tormenta Nests
+Section 8: Interface
+Chapter 1: Visual System
+H[eads] U[p] D[isplay]
+Menus
+Camera
+Screen Flow
+Screen Descriptions
+Main Menu Screen
+Options Screen
+Etc.
+Game Options
+Replaying and Saving
+Chapter 2: Control System
+Section 9: Game Surveys
+Character Origins
+On Sociological Mechanics
+Section 10: Essays on Sociological Relevance
+Gender
+Race
+Environmentalism and Science
+Socioeconomic Class
+War
+Effectiveness in Relaying Positive Social Messages
+References
+Conclusion
+Appendix
+World Map
+Objects
+User Interface
+Equipment
+Locations
+Database Structure
+Screen Flowchart
+Experience Logic Flowchart/Pseudo-code
+Index
+Glossary
+Divine Righteousness:
+	A Sumivacen sponsored in-game video game that denizens of Schism play as a pastime. It is an online shooter where friends can play against each other or participate in online skirmishes that are against AI bots and introduce new maps to the game. Unknown to the in-game players, however, is that their in-game actions have a direct effect in the galaxy, as they are actually controlling warfighting robots that are not defeating AI game simulations, but actually killing civilians and resistance fighters of planets within the Sumivacen domain.
