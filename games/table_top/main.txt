@@ -1,0 +1,3 @@
+See Chinese Chess Board.
+See Chinese Chess Board Triangular Pieces.
+Triangular pieces representative of elevation for board game.
