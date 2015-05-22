@@ -80,3 +80,5 @@ An FPS where the player sits right behind the fron lines (like, 10 feet, not a m
 
 Working Titles(s):
 A slow motion shooter, where players move around slowly and bullets are slow enough to see, but where fights take place in small and cramped arenas. Style of play would encourage planning over reflexes. Players might be able to look around at full speed, but only bring their weapon to bear in slow-mo.
+
+Use Trust equation in NPC relations. Trust in terms of personal and task oriented trust --> will it be complete in the right way under certain conditions (task), do I trust this person with this knowledge/emotion (personal). Weight NPC emotional importance to tasks or personal facts. Equation: Trust = (credibility + reliability + intimacy)/ self-orientation
