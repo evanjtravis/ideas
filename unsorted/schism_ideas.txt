@@ -54,3 +54,6 @@ Conversations: Players can skip conversations, but instead of just skipping dial
 
 Verticality in a Space RTS:
 Abstract Z coordinates to a set of planes that units can inhabit where each plane is 1000 meters? 3 - 5 vertical planes? Additionally, have a constant planetary plane for anti-orbital weapons.
+
+
+REWRITE: I like the idea of a hollow planet --> Where aerial battles take place, and then individual islands on the planet surface that can be explored --> chunking up the discovery w/o overwhelming the player, think Assassin's Creed: Black Flag. With using planets, there's a lot less character as in, "Here is this orb and some space around it." The size of the planet doesn't really convey how much there is to do there, whereas size is proportional to activities in AC:BF, so it would then give the player a better handle on where the limits of the world are. Also, having a hollow planet (or at least largely hollow, with nodes and travel ways and maybe some large atriums) is just more appealing than the LIMITLESS SPACE trope. This might eat into the idea of player controlled outposts...might have to nix that feature.
