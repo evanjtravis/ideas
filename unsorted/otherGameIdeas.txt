@@ -131,3 +131,5 @@ Working Title(s): Why is it that experience isn't granted for evading an enemy? 
 Working Title(s): A game where you use two analogue sticks to manipulate two dog leashes, making sure they don't get tangled as the dog walk gets more and more hectic (squirrels, slipped leashes, loose dogs, poop, etc.) Possible controls to enact commands, like sit or heel or come or stay. Essentially an on-rails dog-walk simulator, with an emphasis on humor and dog-owner celebration/comiseration.
 
 Working Title(s): Respawning where drop pods are used by players that can be aimed to drop on or near enemy targets, damaging/destroying them.
+
+Working Title(s): XP gain fatigue, earning less XP as play session or hours of play per day/time-interval increase --> bonuses granted for resting your character (logging off) for extended periods of time.
