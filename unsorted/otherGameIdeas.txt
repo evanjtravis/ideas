@@ -133,3 +133,5 @@ Working Title(s): A game where you use two analogue sticks to manipulate two dog
 Working Title(s): Respawning where drop pods are used by players that can be aimed to drop on or near enemy targets, damaging/destroying them.
 
 Working Title(s): XP gain fatigue, earning less XP as play session or hours of play per day/time-interval increase --> bonuses granted for resting your character (logging off) for extended periods of time.
+
+Working Title(s): A shooter where players arrange their clips to activate different skills by arranging the bullet order inside the clip.
