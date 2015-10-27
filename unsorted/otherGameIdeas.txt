@@ -1,3 +1,7 @@
+General Idea(s):
+    3 players vs. 2-4 or more players during a game session. See 'Zelda: Tri Force Heroes' multiplayer design principals (escapistmagazine.com). Playing with 2 players is fine for a partnership. Playing with 4 players resulted in two groups of two doing their own thing. With 3 player multiplayer, players still worked together and allowed for more dyanamic group-to-task pairings.
+
+
 Continuation: Car, terrain modification board game: cars have platforms that players can stack and unstack according to a set of given rules. Players are also given access to powerups/upgrades for their piece(es?) that allow them limited manuverability in the air(/sea?).
 
 Working Title(s): Directive, Prime Directive, Command, Command Line, Bash, What You See...(Is Not What You Get)
